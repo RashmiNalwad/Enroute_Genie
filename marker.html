@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <div id="map"></div>
+    <script>
+      var places = ["Golden Gate Bridge", "Winchester Mystery House", "Half Moon Bay", "Cannery Row", "Bixby Bridge", "Hearst Castle", "Bubblegum Alley"];
+      function initMap() {
+		    var geocoder = new google.maps.Geocoder();
+		    var latlng = new google.maps.LatLng(-34.397, 150.644);
+		    var mapOptions = {
+		     	zoom: 4,
+		      	center: latlng
+		    }
+		      var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+		      addMarkers(geocoder,map);
+        };
+
+        function addMarkers(geocoder,map)
+        {
+           for (var i = 0; i < places.length; i++) {
+      		geocoder.geocode( { 'address': places[i] }, function(results, status) {
+	      		if (status == 'OK') {
+	        		map.setCenter(results[0].geometry.location);
+	        		var marker = new google.maps.Marker({
+	            		map: map,
+	            		position: results[0].geometry.location
+	        	});
+	      		}
+    		});	    	
+           }
+        }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&callback=initMap">
+    </script>
+  </body>
+</html>
