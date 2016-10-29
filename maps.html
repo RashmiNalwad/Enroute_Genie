@@ -181,6 +181,27 @@
             }
           });
         }
+
+        var places = ["Golden Gate Bridge", "Winchester Mystery House", "Half Moon Bay", "Cannery Row", "Bixby Bridge", "Hearst Castle", "Bubblegum Alley"];
+      
+		var geocoder = new google.maps.Geocoder();
+		addMarkers(geocoder,map);
+      
+
+        function addMarkers(geocoder,map)
+        {
+           for (var i = 0; i < places.length; i++) {
+      		geocoder.geocode( { 'address': places[i] }, function(results, status) {
+	      		if (status == 'OK') {
+	        		map.setCenter(results[0].geometry.location);
+	        		var marker = new google.maps.Marker({
+	            		map: map,
+	            		position: results[0].geometry.location
+	        	});
+	      		}
+    		});	    	
+           }
+        }
       }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&libraries=places&callback=initMap"
