@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Enroute Genie</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+   	<link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <input id="origin-input" class="controls" type="text"
+        placeholder="Enter an origin location">
+
+    <input id="destination-input" class="controls" type="text"
+        placeholder="Enter a destination location">
+
+    <div id="map"></div>
+
+    <div id="mySidenav" class="sidenav">
+ 		 <a href="javascript:void(0)" class="closebtn">&times;</a>
+  		 <h1>Attraction Name</h1>
+  		 <h3> City <h3>
+		 <div class="row">
+	  		 <div class="column">
+	    		<img class="images" src="img1.jpg" class="hover-shadow">
+	  		 </div>
+	  		 <div class="column">
+	  		   <iframe width="320" height="215" src="https://www.youtube.com/embed/z-diRlyLGzo"></iframe>
+	  		 </div>  
+		  </div>
+		  <Button> Add to Route</Button>
+		  <h2>Known For</h2>
+		  <h2> Rank</h2>
+		  <h2> Popularity </h2>
+		  <h2> Review Comment </h2>
+		  <h2> #of Reviews </h2>
+		  <h2> Address </h2>
+		  <h2> Contact Number </h2>
+		  <h2> Trip Advisor and Blog Links  </h2>
+	</div>	  
+
+<div id="myModal" class="modal">
+  <span class="close cursor">&times;</span>
+  <div class="modal-content">
+    <div class="mySlides">
+      <div class="numbertext">1 / 4</div>
+        <img src="img1.jpg" style="width:50%">
+    </div>
+    <a class="prev">&#10094;</a>
+    <a class="next">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+</div>
+
+ 	<div class="column">
+      <img class="demo" src="img1.jpg" alt="Nature">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img1.jpg" alt="Trolltunga">
+    </div>
+
+  	<script src= "main.js"></script>
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&libraries=places&callback=initMap"
+        async defer></script>
+  </body>
+</html>
