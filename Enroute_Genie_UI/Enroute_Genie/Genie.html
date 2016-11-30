@@ -67,7 +67,7 @@
     left: 0;
     background-color: #fff; /* WHITE*/
     overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
+    padding-top: 40px; /* Place content 40px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
@@ -158,7 +158,7 @@
 
 .close:hover,
 .close:focus {
-  color: #999;
+  color: #ff0;
   text-decoration: none;
   cursor: pointer;
 }
@@ -229,6 +229,58 @@ img.hover-shadow {
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
+
+#AttractionNavigationContent{
+	padding-left: 8px 12px;
+	padding-right: 8px 12px;
+	padding-bottom: 8px 12px;
+}
+
+#AttractionContent{
+	border-radius: 25px;
+    border: 5px solid #C0C0C0;
+    padding-right: 10px; 
+    padding-left:10px;
+    width: 400px;
+    height: 750px;
+}
+
+#attractName{
+	 font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 500px;  
+}
+
+
     </style>
     <title>Enroute Genie</title> 
     <script src="https://cdn.jsdelivr.net/pouchdb/6.0.7/pouchdb.min.js"></script>
@@ -366,6 +418,10 @@ img.hover-shadow {
  			     	placesLength = blogPlaces.length;
 
  				    getAllAttractions();
+
+ 				    getCityDbPediaInfo();
+
+ 				    getAttractionImagesInfo();
  			     
  			        addMarkers(geocoder,map,blogPlaces,placesLength);
  			     }
@@ -405,6 +461,28 @@ img.hover-shadow {
         	});
         }
 
+        var cityDbPediaMap = {};
+
+        function getCityDbPediaInfo()
+        {
+        	pouchDB.get('city_DBPedia').then(function(doc){
+        		cityDbPediaMap = doc;
+        	}).catch(function(err){
+        		console.log(err);
+        	});
+        }
+
+        var attractionImagesMap = {};
+
+        function getAttractionImagesInfo()
+        {
+        	pouchDB.get('Attraction_Images').then(function(doc){
+        		attractionImagesMap = doc;
+        	}).catch(function(err){
+        		console.log(err);
+        	});
+        }
+
 
        function getAttractionInfo(geocoder,map,bPlace)
         {
@@ -430,7 +508,6 @@ img.hover-shadow {
         		var marker;
         		var coordinates = new google.maps.LatLng(attractions[q]['LatLong'],attractions[q]['Longitude']);
         		var attraction = attractions[q];
-        		console.log(attraction);
         		
 	    		map.setCenter(coordinates);
 	        	marker = new google.maps.Marker({
@@ -502,13 +579,108 @@ img.hover-shadow {
 
     		document.getElementById("mySidenav").style.width = "450px";
 
+    		var youtubeLink = attractions['Youtube Links'];
+    		var v1 = youtubeLink.split(",");
+    		
+
     		var div = document.createElement('div');
     		div.className = 'row';
-    	
-    		div.innerHTML = '<h2>'+attractions['Attraction']+'</h2> <h3> '+ attractions['City'] + '<h3> <div class="row"> <div class="column"> <img class="images" src="img1.jpg" class="hover-shadow"> </div> <div class="column"> </div>   </div> <Button> Add to Route</Button> <h2>'+attractions['Known For']+'</h2> <h2>'+attractions['Rank']+'</h2><h2> Popularity </h2> <h2> '+attractions['Review']+'</h2> <h2> '+ attractions['Review Count'] +'#of Reviews </h2> <h2> '+attractions['Address'] +'</h2> <h2> '+attractions['Contact No'] +'</h2><h1>'+ attractions['Trip Advisor Link']+'</h1>';
+    		div.id = 'AttractionNavigationContent';
+
+
+    		var attractionName = attractions['Attraction'];
+    		var rank = attractions['Rank'];
+    		var city = attractions['City'];
+    		var youtubeURL = v1[0];
+    		var known_for = attractions['Known For'];
+    		var popular = attractions['Popularity'];
+    		var review_count = attractions['Review Count'];
+    		var reviewC = attractions['Review'];
+    		var address = attractions['Address'];
+    		var contact = attractions['Contact No'];
+    		var source = attractions['Trip Advisor Link'];
+    		var blogLinks = attractions['BlogLinks'];
+
+    		var imageURLs = attractionImagesMap[attractionName];
+
+    		var dbPediaInfo = cityDbPediaMap[city.toLowerCase()];
+    		console.log(dbPediaInfo);
+
+    		var contentString = '<h2 id= "attractName">'+ attractionName +'</h2>';
+
+    		if(city != "" && city != null && dbPediaInfo != null && dbPediaInfo != "undefined")
+    		{
+    			contentString += '<button class="accordion"> <span id="attractionStyleId">'+ city + '</span></button>';
+    			contentString += '<div class="panel"><p>'+dbPediaInfo+'</p></div>'
+    		}
+    		else
+    		{
+    			contentString += '<p> '+'<span id="attractionStyleId">'+ city+'</span></p>';
+    		}
+
+    		for(var img in imageURLs)
+    		{
+    			contentString += '<img src='+imageURLs[img]+' alt = "Attraction" height="92" width = "92">';
+    		}
+
+
+    		if(known_for != "" && known_for != null)
+    		{
+    			contentString += '<p> '+'Known For: <span id="attractionStyleId">'+ known_for+'</span></p>';
+    		}
+
+    		if(popular != "" && popular != null) 
+    		{
+    			contentString += '<p> '+'Popularity: <span id="attractionStyleId">'+ popular+'</span></p>';
+    		}
+
+    		if(rank != "" && rank != null)
+    		{
+    			contentString += '<p> Ranks:  <span id="attractionStyleId">'+rank+ '<span></p>';
+    		}
+
+    		if(review_count != "" && review_count != null)
+    		{
+    			contentString += '<p> No of Reviews: # <span id="attractionStyleId">'+review_count+ '<span></p>';
+    		}
+
+    		if(reviewC != "" && reviewC != null)
+    		{
+    			contentString += '<p> Review: <span id="attractionStyleId">'+reviewC+ '<span></p>';
+    		}
+
+    		if(address != "" && address != null)
+    		{
+    			contentString += '<p> Address: <span id="attractionStyleId">'+address+ '<span></p>';
+    		}
+
+    		if(contact != "" && contact != null)
+    		{
+    			contentString += '<p> Contact No: <span id="attractionStyleId">'+contact+ '<span></p>';
+    		}
+
+    	    contentString += '<button class="accordion"> <span id="attractionStyleId"> Our Sources: </span></button>';
+    		contentString += '<div class="panel"><p>'+source+'</p> <p>' + blogLinks +'</p></div>'
+
+    		div.innerHTML = contentString;
+    		//div.innerHTML =  ' <div class="row"> <div class="column"> <img class="images" src="http://www.southfieldlibrary.org/wp-content/uploads/2010/03/growing-money-small.jpg" class="hover-shadow"> </div> <div class="column"> </div>  <iframe width="220" height="115" src="https://www.youtube.com/watch?v='+ v1[0]+'"> </iframe> </div> <Button> Add to Route && Get Directions </Button>';
 
 			document.getElementById('AttractionContent').appendChild(div);
+			attachAccordian();
 		}
+
+		function attachAccordian(){
+			var acc = document.getElementsByClassName("accordion");
+			var i;
+			for (i = 0; i < acc.length; i++) {
+    			acc[i].onclick = function(){
+       			this.classList.toggle("active");
+       	    	this.nextElementSibling.classList.toggle("show");
+  		  	}
+	      }
+		}
+
+		
 
 		/* Set the width of the side navigation to 0 */
 		function closeNav() {
