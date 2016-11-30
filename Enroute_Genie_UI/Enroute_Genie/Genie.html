@@ -4,7 +4,6 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
-
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
       #map {
@@ -26,7 +25,6 @@
         outline: none;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
       }
-
       #origin-input,
       #destination-input {
         background-color: #fff;
@@ -38,25 +36,21 @@
         text-overflow: ellipsis;
         width: 150px;
       }
-
       #origin-input:focus,
       #destination-input:focus {
         border-color: #4d90fe;
       }
-
       #mode-selector {
         color: #fff;
         background-color: #4d90fe;
         margin-left: 12px;
         padding: 5px 11px 0px 11px;
       }
-
       #mode-selector label {
         font-family: Roboto;
         font-size: 13px;
         font-weight: 300;
       }
-
      /* The side navigation menu */
 .sidenav {
     height: 100%; /* 100% Full-height */
@@ -70,7 +64,6 @@
     padding-top: 40px; /* Place content 40px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
-
 /* The navigation menu links */
 .sidenav a {
     padding: 8px 8px 8px 32px;
@@ -80,12 +73,10 @@
     display: block;
     transition: 0.3s
 }
-
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover, .offcanvas a:focus{
     color: #0000FF;
 }
-
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
     position: absolute;
@@ -94,34 +85,28 @@
     font-size: 36px;
     margin-left: 50px;
 }
-
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
 #main {
     transition: margin-left .5s;
     padding: 20px;
 }
-
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
-
 .row > .column {
   padding: 0 8px;
 }
-
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
 .column {
   float: left;
   width: 25%;
 }
-
 /* The Modal (background) */
 .modal {
   display: none;
@@ -135,7 +120,6 @@
   overflow: auto;
   background-color: black;
 }
-
 /* Modal Content */
 .modal-content {
   position: relative;
@@ -145,7 +129,6 @@
   width: 90%;
   max-width: 1200px;
 }
-
 /* The Close Button */
 .close {
   color: white;
@@ -155,18 +138,15 @@
   font-size: 35px;
   font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
   color: #ff0;
   text-decoration: none;
   cursor: pointer;
 }
-
 .mySlides {
   display: none;
 }
-
 /* Next & previous buttons */
 .prev,
 .next {
@@ -184,19 +164,16 @@
   user-select: none;
   -webkit-user-select: none;
 }
-
 /* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
-
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
-
 /* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
@@ -205,50 +182,41 @@
   position: absolute;
   top: 0;
 }
-
 .caption-container {
   text-align: center;
   background-color: black;
   padding: 2px 16px;
   color: white;
 }
-
 img.demo {
   opacity: 0.6;
 }
-
 .active,
 .demo:hover {
   opacity: 1;
 }
-
 img.hover-shadow {
   transition: 0.3s
 }
-
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
-
 #AttractionNavigationContent{
 	padding-left: 8px 12px;
 	padding-right: 8px 12px;
 	padding-bottom: 8px 12px;
 }
-
 #AttractionContent{
 	border-radius: 25px;
     border: 5px solid #C0C0C0;
     padding-right: 10px; 
     padding-left:10px;
     width: 400px;
-    height: 750px;
+    height: 1050px;
 }
-
 #attractName{
 	 font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
-
 button.accordion {
     background-color: #eee;
     color: #444;
@@ -261,11 +229,9 @@ button.accordion {
     font-size: 15px;
     transition: 0.4s;
 }
-
 button.accordion.active, button.accordion:hover {
     background-color: #ddd;
 }
-
 div.panel {
     padding: 0 18px;
     background-color: white;
@@ -274,32 +240,30 @@ div.panel {
     transition: 0.6s ease-in-out;
     opacity: 0;
 }
-
 div.panel.show {
     opacity: 1;
-    max-height: 500px;  
+    max-height: 700px;  
 }
 
-
+p{
+	font:bold;
+	font-family:sans-serif Helvetica;
+}
     </style>
     <title>Enroute Genie</title> 
     <script src="https://cdn.jsdelivr.net/pouchdb/6.0.7/pouchdb.min.js"></script>
   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   	<script>
-
   		var cityPairsInfo;
-
   		var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_genie_db');
   
       // This example requires the Places library. Include the libraries=places
       // parameter when you first load the API. For example:
       // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
-
       var source;
       var dest;
       var blogPlaces;
       var placesLength; // Total number of blog places returned by the city pairs.
-
       function initMap() {
         var origin_place_id = null;
         var destination_place_id = null;
@@ -312,21 +276,17 @@ div.panel.show {
         var directionsService = new google.maps.DirectionsService;
         var directionsDisplay = new google.maps.DirectionsRenderer;
         directionsDisplay.setMap(map);
-
         var origin_input = document.getElementById('origin-input');
         var destination_input = document.getElementById('destination-input');
         var modes = document.getElementById('mode-selector');
-
         map.controls[google.maps.ControlPosition.TOP_LEFT].push(origin_input);
         map.controls[google.maps.ControlPosition.TOP_LEFT].push(destination_input);
         map.controls[google.maps.ControlPosition.TOP_LEFT].push(modes);
-
         var origin_autocomplete = new google.maps.places.Autocomplete(origin_input);
         origin_autocomplete.bindTo('bounds', map);
         var destination_autocomplete =
             new google.maps.places.Autocomplete(destination_input);
         destination_autocomplete.bindTo('bounds', map);
-
         // Sets a listener on a radio button to change the filter type on Places
         // Autocomplete.
         function setupClickListener(id, mode) {
@@ -344,7 +304,6 @@ div.panel.show {
             map.setZoom(17);
           }
         }
-
         origin_autocomplete.addListener('place_changed', function() {
           var place = origin_autocomplete.getPlace();
           source = place.address_components[0].long_name; 
@@ -354,14 +313,12 @@ div.panel.show {
             return;
           }
           expandViewportToFitPlace(map, place);
-
           // If the place has a geometry, store its place ID and route if we have
           // the other place ID
           origin_place_id = place.place_id;
           route(origin_place_id, destination_place_id, travel_mode,
                 directionsService, directionsDisplay);
         });
-
         destination_autocomplete.addListener('place_changed', function() {
           var place = destination_autocomplete.getPlace();
           console.log(place);
@@ -371,7 +328,6 @@ div.panel.show {
             return;
           }
           expandViewportToFitPlace(map, place);
-
           // If the place has a geometry, store its place ID and route if we have
           // the other place ID
           destination_place_id = place.place_id;
@@ -379,7 +335,6 @@ div.panel.show {
                 directionsService, directionsDisplay);
           
         });
-
         $("#GenieButton").click(function(){
         	route(origin_place_id, destination_place_id, travel_mode,
                 directionsService, directionsDisplay);
@@ -387,7 +342,6 @@ div.panel.show {
         
         function route(origin_place_id, destination_place_id, travel_mode,
                        directionsService, directionsDisplay) {
-
           if (!origin_place_id || !destination_place_id) {
             return;
           }
@@ -399,14 +353,11 @@ div.panel.show {
             if (status === 'OK') {
               directionsDisplay.setDirections(response);
               var geocoder = new google.maps.Geocoder();
-
               //Get all the place names from pouchDB for a given source destination pair.
       	     pouchDB.get('b188fe8f9aecb4e7951fd9bf9c1a777b').then(function (doc) {
-
       	     	 var cityPairInput = source + '_and_' + dest;
       	   	     cityInput = cityPairInput.toLowerCase();
  			     blogPlaces = doc[cityInput];
-
  			     //console.log(blogPlaces.constructor === Array);
  			     if(blogPlaces == null)
  			     {
@@ -416,11 +367,8 @@ div.panel.show {
  			     else
  			     {
  			     	placesLength = blogPlaces.length;
-
  				    getAllAttractions();
-
  				    getCityDbPediaInfo();
-
  				    getAttractionImagesInfo();
  			     
  			        addMarkers(geocoder,map,blogPlaces,placesLength);
@@ -434,7 +382,6 @@ div.panel.show {
             }
           });
         }
-
         function addMarkers(geocoder,map,blogPlaces,placesLength)
         {
            for (var i = 0;i<placesLength;i++) {
@@ -449,9 +396,7 @@ div.panel.show {
            	} 
            }
         }
-
         var allAttractionsMap = {};
-
         function getAllAttractions()
         {
         	pouchDB.get('All_Attractions').then(function(doc){
@@ -460,9 +405,7 @@ div.panel.show {
         		console.log(err);
         	});
         }
-
         var cityDbPediaMap = {};
-
         function getCityDbPediaInfo()
         {
         	pouchDB.get('city_DBPedia').then(function(doc){
@@ -471,9 +414,7 @@ div.panel.show {
         		console.log(err);
         	});
         }
-
         var attractionImagesMap = {};
-
         function getAttractionImagesInfo()
         {
         	pouchDB.get('Attraction_Images').then(function(doc){
@@ -482,8 +423,6 @@ div.panel.show {
         		console.log(err);
         	});
         }
-
-
        function getAttractionInfo(geocoder,map,bPlace)
         {
  			var attractions = allAttractionsMap[bPlace];
@@ -498,9 +437,7 @@ div.panel.show {
  			    addAttractionMarkers(geocoder,map,attractions,aLen);
  			}
         }
-
         allMarkers = [];
-
         function addAttractionMarkers(geocoder,map,attractions,aLen)
         {
         	for(var q=0;q<aLen;q++)
@@ -516,78 +453,58 @@ div.panel.show {
 	            	position: coordinates,
 	            	title: attraction['Attraction']
 	        	});
-
 	        	allMarkers.push(marker);
-
 	        	addInfoMarkerListener(attraction,marker);
 	        }
         }
-
         function addInfoMarkerListener(attraction,marker)
         {
         	marker.addListener('click', function() {
           		openNav(attraction);
         	});	
         }
-
-
         $(".closebtn").click(function() {
  			 closeNav();
 		});
-
         $(".images").click(function() {
  			 openModal();
  			 currentSlide(1);
 		});
-
 		$(".close cursor").click(function(){
 			closeModal();
 		});
-
 		$(".prev").click(function(){
 			plusSlides(-1);
 		});
-
 		$(".next").click(function(){
 			plusSlides(1);
 		});
-
 		$(".demo").click(function(){
 			 currentSlide(1);
 		});
-
 		$("#clearButton").click(function(){
 			 //document.getElementById("origin_input").text = '';
 			 //document.getElementById("destination-input").text = '';
-
 			 //var form = document.getElementById("origin_input");
 			 //form.reset();
-
 			 setMapOnAll(null);
 		});
-
 		 // Sets the map on all markers in the array.
      	function setMapOnAll(map) {
       		  for (var i = 0; i < allMarkers.length; i++) {
           	  allMarkers[i].setMap(map);
            }
         }
-
 		function openNav(attractions) {
 			console.log(attractions);
 			document.getElementById('AttractionContent').innerHTML = '';
-
     		document.getElementById("mySidenav").style.width = "450px";
-
     		var youtubeLink = attractions['Youtube Links'];
     		var v1 = youtubeLink.split(",");
     		
-
     		var div = document.createElement('div');
     		div.className = 'row';
     		div.id = 'AttractionNavigationContent';
-
-
     		var attractionName = attractions['Attraction'];
     		var rank = attractions['Rank'];
     		var city = attractions['City'];
@@ -600,14 +517,10 @@ div.panel.show {
     		var contact = attractions['Contact No'];
     		var source = attractions['Trip Advisor Link'];
     		var blogLinks = attractions['BlogLinks'];
-
     		var imageURLs = attractionImagesMap[attractionName];
-
     		var dbPediaInfo = cityDbPediaMap[city.toLowerCase()];
     		console.log(dbPediaInfo);
-
     		var contentString = '<h2 id= "attractName">'+ attractionName +'</h2>';
-
     		if(city != "" && city != null && dbPediaInfo != null && dbPediaInfo != "undefined")
     		{
     			contentString += '<button class="accordion"> <span id="attractionStyleId">'+ city + '</span></button>';
@@ -617,58 +530,46 @@ div.panel.show {
     		{
     			contentString += '<p> '+'<span id="attractionStyleId">'+ city+'</span></p>';
     		}
-
-    		for(var img in imageURLs)
-    		{
-    			contentString += '<img src='+imageURLs[img]+' alt = "Attraction" height="92" width = "92">';
-    		}
-
-
+    		//for(var img in imageURLs)
+    		//{
+    			contentString += '<img style = "padding-right:5px; padding-top:10px"src='+imageURLs[0]+' alt = "Attraction" height="152" width = "190">';
+    			contentString += '<iframe style = "padding-top: 10px" width="190" height="150" src="https://www.youtube.com/watch?v='+ v1[0]+'"> </iframe> '
+    		//}
     		if(known_for != "" && known_for != null)
     		{
-    			contentString += '<p> '+'Known For: <span id="attractionStyleId">'+ known_for+'</span></p>';
+    			contentString += '<p> '+' Known For: <span id="attractionStyleId">'+ known_for+'</span></p>';
     		}
-
     		if(popular != "" && popular != null) 
     		{
     			contentString += '<p> '+'Popularity: <span id="attractionStyleId">'+ popular+'</span></p>';
     		}
-
     		if(rank != "" && rank != null)
     		{
-    			contentString += '<p> Ranks:  <span id="attractionStyleId">'+rank+ '<span></p>';
+    			contentString += '<p> Rank:  <span id="attractionStyleId">'+rank+ '<span></p>';
     		}
-
     		if(review_count != "" && review_count != null)
     		{
     			contentString += '<p> No of Reviews: # <span id="attractionStyleId">'+review_count+ '<span></p>';
     		}
-
     		if(reviewC != "" && reviewC != null)
     		{
     			contentString += '<p> Review: <span id="attractionStyleId">'+reviewC+ '<span></p>';
     		}
-
     		if(address != "" && address != null)
     		{
     			contentString += '<p> Address: <span id="attractionStyleId">'+address+ '<span></p>';
     		}
-
     		if(contact != "" && contact != null)
     		{
     			contentString += '<p> Contact No: <span id="attractionStyleId">'+contact+ '<span></p>';
     		}
-
     	    contentString += '<button class="accordion"> <span id="attractionStyleId"> Our Sources: </span></button>';
     		contentString += '<div class="panel"><p>'+source+'</p> <p>' + blogLinks +'</p></div>'
-
     		div.innerHTML = contentString;
-    		//div.innerHTML =  ' <div class="row"> <div class="column"> <img class="images" src="http://www.southfieldlibrary.org/wp-content/uploads/2010/03/growing-money-small.jpg" class="hover-shadow"> </div> <div class="column"> </div>  <iframe width="220" height="115" src="https://www.youtube.com/watch?v='+ v1[0]+'"> </iframe> </div> <Button> Add to Route && Get Directions </Button>';
-
+    		//div.innerHTML =  ' <Button> Add to Route && Get Directions </Button>';
 			document.getElementById('AttractionContent').appendChild(div);
 			attachAccordian();
 		}
-
 		function attachAccordian(){
 			var acc = document.getElementsByClassName("accordion");
 			var i;
@@ -679,33 +580,25 @@ div.panel.show {
   		  	}
 	      }
 		}
-
 		
-
 		/* Set the width of the side navigation to 0 */
 		function closeNav() {
     		document.getElementById("mySidenav").style.width = "0";
 		}
-
 		function openModal() {
   			document.getElementById('myModal').style.display = "block";
 		}
-
 		function closeModal() {
 		  document.getElementById('myModal').style.display = "none";
 		}
-
 		var slideIndex = 1;
 		showSlides(slideIndex);
-
 		function plusSlides(n) {
 		  showSlides(slideIndex += n);
 		}
-
 		function currentSlide(n) {
 		  showSlides(slideIndex = n);
 		}
-
 		function showSlides(n) {
 		  var i;
 		  var slides = document.getElementsByClassName("mySlides");
@@ -723,10 +616,7 @@ div.panel.show {
 		  dots[slideIndex-1].className += " active";
 		  captionText.innerHTML = dots[slideIndex-1].alt;
 		}
-
-
       }
-
   	</script>
   </head>
   <body>
@@ -774,3 +664,5 @@ div.panel.show {
         async defer></script>
   </body>
 </html>
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
