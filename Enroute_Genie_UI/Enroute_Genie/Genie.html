@@ -537,9 +537,9 @@ p{
     		var imageURLs = attractionImagesMap[attractionName];
     		var dbPediaInfo = cityDbPediaMap[city.toLowerCase()];
     		console.log(dbPediaInfo);
-    		var contentString = '<h2 id= "attractName" >'+ attractionName +'</h2>';
+    		var contentString = '<div style="display: inline-block" ><h2 id= "attractName" >'+ attractionName +'</div></h2>';
 
-    		contentString += '<a id="maps" target="_blank" href ="http://maps.google.com/maps?saddr=&daddr='+currentClickedAttraction+'">'+'<img  id="DirectionsImage" style= "padding-right:5px; padding-top:5px" src="http://www.psdgraphics.com/file/directions-icon.jpg" height="40" width="40"/>'+'</a>';
+    		contentString += '<div style="display: inline-block" ><a id="maps" target="_blank" href ="http://maps.google.com/maps?saddr=&daddr='+currentClickedAttraction+'">'+'<img  id="DirectionsImage" style= "padding-right:5px; padding-top:5px" src="http://www.psdgraphics.com/file/directions-icon.jpg" height="40" width="40"/>'+'</a></div>';
 
     		if(city != "" && city != null && dbPediaInfo != null && dbPediaInfo != "undefined")
     		{
