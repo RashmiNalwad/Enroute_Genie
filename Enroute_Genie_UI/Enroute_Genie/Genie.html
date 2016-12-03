@@ -552,7 +552,7 @@ p{
     		}
     		
     		contentString += '<img id="mainImage" style = "padding-right:5px; padding-top:5px"src='+imageURLs[0]+' alt = "Attraction" height="152" width = "190" class="hover-shadow">';
-    		contentString += '<iframe style = "padding-top: 10px" width="190" height="150" src="https://www.youtube.com/watch?v='+ v1[0]+'"> </iframe> '
+    		contentString += '<iframe width="190" height="150" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/'+ v1[0]+'"> </iframe> '
     		
 
     		if(known_for != "" && known_for != null)
@@ -669,8 +669,8 @@ p{
    	    <input id="destination-input" class="controls" type="text"
         	placeholder="Enter a destination location">
 
-        <button style = "width:100px; height:30px; background-color:#4CAF50; border-radius: 8px;" id="GenieButton" type="button">Go Genie!</button> 
-   		<button style = "width:100px; height:30px; background-color:#e7e7e7; border-radius: 8px;" id="clearButton" type="button">Clear </button> 	
+        <button style = "width:100px; height:30px; background-color:#4CAF50; border-radius: 8px; color:white; font-weight: bold;" id="GenieButton" type="button">Go Genie!</button> 
+   		<button style = "width:100px; height:30px; background-color:#e7e7e7; border-radius: 8px; font-weight: bold;" id="clearButton" type="button">Clear </button> 	
   	</form>
     <div id="map"></div>
 
