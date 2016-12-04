@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <link rel="icon" href="http://vignette1.wikia.nocookie.net/disney/images/c/c8/Genie5.png/revision/latest?cb=20130719001923">
     <meta charset="utf-8">
     <style>
       /* Always set the map height explicitly to define the size of the div
@@ -385,7 +386,9 @@ p{
  				    getAllAttractions();
  				    getCityDbPediaInfo();
  				    getAttractionImagesInfo();
- 			     
+ 			     	getCityInfo();
+ 			     	getCityDBPediaLinkInfo();
+
  			        addMarkers(geocoder,map,blogPlaces,placesLength);
  			     }
  			     
@@ -404,6 +407,7 @@ p{
            	{
            		var bPlace = blogPlaces[i];
     		    getAttractionInfo(geocoder,map,bPlace); //For each valid place get attractions list.
+    		    putCityInfoOnMap(geocoder,map,bPlace); //If the place is city i.e if All_City_Data contains this key, its a city
            	}
            	catch(err)
            	{
@@ -438,6 +442,141 @@ p{
         		console.log(err);
         	});
         }
+
+        var cityInfoMap = {};
+        //Get all the city related Info.
+        function getCityInfo()
+        {
+        	pouchDB.get('All_City_Data').then(function(doc){
+        		cityInfoMap = doc;
+        	}).catch(function(err){
+        		console.log(err);
+        	});
+        }
+
+        var cityDbPediaLinksMap = {};
+        function getCityDBPediaLinkInfo()
+        {
+        	pouchDB.get('City_DBPedia_Links').then(function(doc){
+        		cityDbPediaLinksMap = doc;
+        		console.log(cityDbPediaLinksMap);
+        	}).catch(function(err){
+        		console.log(err);
+        	});
+        }
+
+
+        function putCityInfoOnMap(geocoder,map,bPlace)
+        {
+        	var city_info = cityInfoMap[bPlace];
+        	var city_DBPedia_Link =	cityDbPediaLinksMap[bPlace];
+ 		    if(city_info == null)
+ 			{
+ 				//Print message
+ 			}
+ 			else
+ 			{
+ 			    addCityMarkers(geocoder,map,city_info,city_DBPedia_Link);
+ 			}
+        }
+
+        cityMarkers = [];
+
+        function addCityMarkers(geocoder,map,city_info,city_DBPedia_Link)
+        {
+        	 console.log(city_info);
+        	 var marker;
+        	 var markerImg;
+        	 var latlng = new google.maps.LatLng(city_info['Latitude'], city_info['Longitude']);
+        	 markerImg = {
+                            url: 'images/bigcity.png',
+                            // This marker is 20 pixels wide by 32 pixels high.
+                            size: new google.maps.Size(60, 32)
+                         };
+
+                    
+             marker = new google.maps.Marker({
+             	map: map, position: latlng, 
+             	title:city_info['Label'], 
+             	animation: google.maps.Animation.DROP, 
+             	icon: markerImg
+             });
+             cityMarkers.push(marker);
+
+             addCityInfoMarkerListener(city_info,marker,city_DBPedia_Link);
+        }
+
+        function addCityInfoMarkerListener(city_info,marker,city_DBPedia_Link)
+        {
+        	
+            openCityInfoWindow(city_info,city_DBPedia_Link,marker);
+        	
+        }
+
+        function openCityInfoWindow(city_info,city_DBPedia_Link,marker)
+        {	
+
+        	var youTubeLinkIdInfos = (city_info['YoutubeLink']).split(',');
+            var youTubeLinkIds = [];
+            for(var i = 0; i<youTubeLinkIdInfos.length; i++){
+                var youTubeLinkId = (youTubeLinkIdInfos[i].replace('\"',''))
+                youTubeLinkIds.push(youTubeLinkId);
+            }
+            var randomIndex = Math.floor((Math.random() * youTubeLinkIds.length) + 1);
+            var youTubeId = youTubeLinkIds[randomIndex-1];
+
+            var ImageURLInfos = (city_info['ImageURL']).split(',');
+            var ImageURLIds = [];
+            for(var i = 0; i<ImageURLInfos.length; i++){
+                var ImageURLId = (ImageURLInfos[i].replace('\"',''))
+                ImageURLIds.push(ImageURLId);
+            }
+            var randomIndex = Math.floor((Math.random() * ImageURLIds.length) + 1);
+            var imageId = ImageURLIds[randomIndex-1];
+
+            var cityName = city_info['Label'];
+
+            var infoText = "";
+            var comment = city_info['comment'];
+            var abstractData = city_info['Abstract'];
+
+            var dbPediaLink = "";
+
+            if( city_DBPedia_Link != null)
+            {
+            	dbPediaLink = city_DBPedia_Link['DBPedia_Link'];
+            }
+           
+            if (comment != null && abstractData != null && dbPediaLink != null){
+                   
+                   var commentAbstract = '<a target="_blank" href="' + dbPediaLink  + '">DbPedia Info</a></br> <b>Comment : </b>' + comment + '</br></br>' + '<b>Abstract : </b>' + abstractData + '</br>';
+                   infoText += commentAbstract;
+            }           
+
+        	var content = '<div id="content">'+
+                            '<h1 id="firstHeading" class="firstHeading">' + cityName + '</h1>'+
+                                '<div id="bodyContent">'+
+                                   '<iframe width="320" height="215" src="https://www.youtube.com/embed/' + youTubeId +'"></iframe>'+
+                                        '<img src="' + imageId +'" alt="' + cityName +'" style="width:300px;height:220px;">'+ infoText+
+                                            '<p>'+
+                                            '<p>'+
+                                            '<table>' + 
+	                                            '<tr><td><b>Popularity: </b></td><td>' + city_info['mention_popularity'] + '</td></tr>' +
+	                                        '</table>' +
+                                            '</p>'+
+                                '</div>'+
+                           '</div>';
+            var infowindow = new google.maps.InfoWindow({maxWidth: 800, zIndex: 50});
+                            
+            google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
+                return function() {
+                    infowindow.setContent(content);
+                    infowindow.open(map,marker);
+                };
+            })(marker,content,infowindow));     
+        }
+
+
        function getAttractionInfo(geocoder,map,bPlace)
         {
  			var attractions = allAttractionsMap[bPlace];
@@ -452,7 +591,9 @@ p{
  			    addAttractionMarkers(geocoder,map,attractions,aLen);
  			}
         }
+
         allMarkers = [];
+        
         function addAttractionMarkers(geocoder,map,attractions,aLen)
         {
         	for(var q=0;q<aLen;q++)
@@ -472,12 +613,15 @@ p{
 	        	addInfoMarkerListener(attraction,marker);
 	        }
         }
+        
         function addInfoMarkerListener(attraction,marker)
         {
         	marker.addListener('click', function() {
           		openNav(attraction);
         	});	
         }
+
+
         $(".closebtn").click(function() {
  			 closeNav();
 		});
@@ -495,8 +639,8 @@ p{
 			 currentSlide(1);
 		});
 		$("#clearButton").click(function(){
-			 //document.getElementById("origin_input").text = '';
-			 //document.getElementById("destination-input").text = '';
+			 //document.getElementById("origin_input").val = '';
+			 //document.getElementById("destination-input").val = '';
 			 //var form = document.getElementById("origin_input");
 			 //form.reset();
 			 setMapOnAll(null);
@@ -506,6 +650,10 @@ p{
       		  for (var i = 0; i < allMarkers.length; i++) {
           	  allMarkers[i].setMap(map);
            }
+           for (var i = 0; i < cityMarkers.length; i++) {
+          	  cityMarkers[i].setMap(map);
+           }
+
         }
 
         var currentClickedAttraction;
@@ -555,7 +703,7 @@ p{
     		contentString += '<iframe width="190" height="150" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/'+ v1[0]+'"> </iframe> '
     		
 
-    		if(known_for != "" && known_for != null)
+    		if(known_for != "" && known_for != null && known_for != "null")
     		{
     			contentString += '<p><strong> '+' Known For: </strong><span class="attractionStyleId">'+ known_for+'</span></p>';
     		}
@@ -563,7 +711,7 @@ p{
     		{
     			contentString += '<p><strong> '+'Popularity: </strong><span class="attractionStyleId">'+ popular+'</span></p>';
     		}
-    		if(rank != "" && rank != null)
+    		if(rank != "" && rank != null && rank != "#")
     		{
     			contentString += '<p><strong> Rank:  </strong><span class="attractionStyleId">'+rank+ '<span></p>';
     		}
@@ -669,8 +817,46 @@ p{
    	    <input id="destination-input" class="controls" type="text"
         	placeholder="Enter a destination location">
 
-        <button style = "width:100px; height:30px; background-color:#4CAF50; border-radius: 8px; color:white; font-weight: bold;" id="GenieButton" type="button">Go Genie!</button> 
-   		<button style = "width:100px; height:30px; background-color:#e7e7e7; border-radius: 8px; font-weight: bold;" id="clearButton" type="button">Clear </button> 	
+        <div style="float:left">
+                	<h2 style = "padding-left:10px;padding-right:15px"> <image src ="http://vignette1.wikia.nocookie.net/disney/images/c/c8/Genie5.png/revision/latest?cb=20130719001923" height=40px width=40px></image><span style="font-style:italic"> Enroute Genie </span> </h2>
+        	<button style = "width:100px; height:30px; background-color:#4CAF50; border-radius: 8px; color:white; font-weight: bold;" id="GenieButton" type="button">Go Genie!</button> 
+   			<button style = "width:100px; height:30px; background-color:#e7e7e7; border-radius: 8px; font-weight: bold;" id="clearButton" type="button">Clear </button> 
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<br>
+   			<div style="padding-left:30px">
+   			<p style="font-style:italic padding-left 20px"> <strong>Powered By:</strong> </p>
+   			<ul>
+	   			<div><img src="images/google_logo.png" alt="Google" height=30px width=80px></div>
+	   			<br>
+	   			<div><img src="images/tripadvisor_logo.jpg" alt="TripAdvisor" height=30px width=80px></div>
+	   			<br>
+				<div> <img src="images/dbpedia_logo.png" alt="dbPedia" height=30px width=80px></div>  
+				<br>  
+				<div> <img src="images/yandex_logo.png" alt="Yandex" height=30px width=80px></div>    
+				<br>
+				<div> <img src="images/youtube_logo.png" alt="YouTube" height=30px width=80px></div>   
+   			</ul>
+   			<p style="font-style:italic"> <strong> Team: </strong></p>
+   			<ul>
+   			<div style="font-style:italic"> <strong>Ravi Raju Krishna </strong></div>
+   			<div style="font-style:italic"> <strong> Rashmi Nalwad </strong></div>
+   			</ul>
+   			</div>
+        </div>	
+
+        <div>
+
+        </div>
+   		
   	</form>
     <div id="map"></div>
 
