@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://static.panoramio.com/photos/large/9173865.jpg",
+        "https://www.gogototour.com/photo/hotel/2/6/50162/pv.jpg",
+        "http://marinrealty.net/wp-content/uploads/2015/06/39-Capilano.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Novato,_California",
+    "attraction_in_file": "novato.json",
+    "label": "Novato, California",
+    "mention_found_in_blogFiles": "beverly hills_and_sausalito.json,berkeley_and_sacramento.json,carlsbad_and_napa.json,fremont_and_santa clarita.json,irvine_and_sacramento.json,long beach_and_sausalito.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,napa_and_san francisco.json,napa_and_oakland.json,oakland_and_sacramento.json,riverside_and_sacramento.json,sacramento_and_sausalito.json,newport beach_and_sausalito.json,santa clarita_and_santa cruz.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.1061979",
+    "abstract": "Novato (/n\u0259\u02c8v\u0251\u02d0to\u028a/ n\u0259-VAH-toh) is a city in northern Marin County, in the North Bay region of the San Francisco Bay Area, in the U.S. state of California. As of the 2010 United States Census, its population was 51,904. Novato is located about 10 miles (16 km) northwest of San Rafael and about 30 miles (48 km) north of San Francisco on U.S. 101.",
+    "mention_latitude": "38.1061979",
+    "attraction_longitude": "-122.568119",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "novato",
+    "mention_address": "Novato, Marin County, California, United States of America",
+    "youTubeLinkIds": "meIktVQsi4o,rF32jbgH2J4,y9gByWGeqNQ",
+    "mention_popularity": "7",
+    "mention_longitude": "-122.568119",
+    "attraction_in": "Novato",
+    "no_of_blogFiles": "15",
+    "comment": "Novato (/n\u0259\u02c8v\u0251\u02d0to\u028a/ n\u0259-VAH-toh) is a city in northern Marin County, in the North Bay region of the San Francisco Bay Area, in the U.S. state of California. As of the 2010 United States Census, its population was 51,904. Novato is located about 10 miles (16 km) northwest of San Rafael and about 30 miles (48 km) north of San Francisco on U.S. 101."
+}

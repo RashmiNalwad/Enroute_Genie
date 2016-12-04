@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pollasky_Ave._Clovis.JPG",
+        "http://static.panoramio.com/photos/original/2619125.jpg",
+        "https://linguistlist.org/fund-drive/2012/hometowns/christy/clovisave.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Clovis,_California",
+    "attraction_in_file": "clovis.json",
+    "label": "Clovis, California",
+    "mention_found_in_blogFiles": "avalon_and_fresno.json,bakersfield_and_fresno.json,bakersfield_and_monterey.json,bakersfield_and_san jose.json,beverly hills_and_san luis obispo.json,fremont_and_san bernardino.json,fremont_and_santa barbara.json,irvine_and_sacramento.json,sacramento_and_san luis obispo.json,san bernardino_and_san luis obispo.json,sacramento_and_san bernardino.json",
+    "mention_type": "city",
+    "attraction_latitude": "36.8252277",
+    "abstract": "Clovis is a city in Fresno County, California, United States. The 2014 population was estimated to be 102,189. Clovis is located 6.5 miles (10.5 km) northeast of downtown Fresno, at an elevation of 361 feet (110 m).",
+    "mention_latitude": "36.8252277",
+    "attraction_longitude": "-119.7029193",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "clovis",
+    "mention_address": "Clovis, Fresno County, California, United States of America",
+    "youTubeLinkIds": "toH20Jb-Xo4,b1s0bC7dabY,qJa_qUMdaBc",
+    "mention_popularity": "7",
+    "mention_longitude": "-119.7029193",
+    "attraction_in": "Clovis",
+    "no_of_blogFiles": "11",
+    "comment": "Clovis is a city in Fresno County, California, United States. The 2014 population was estimated to be 102,189. Clovis is located 6.5 miles (10.5 km) northeast of downtown Fresno, at an elevation of 361 feet (110 m)."
+}

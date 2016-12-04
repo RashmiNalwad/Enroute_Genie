@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/64/Nevada_City_California_2011.jpg",
+        "http://reader-mania.ru/img/ps/2854931.jpg",
+        "http://www.aboutnevadacounty.com/photos/nevadacity/nc7.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Nevada_City,_California",
+    "attraction_in_file": "nevada_city.json",
+    "label": "Nevada City, California",
+    "mention_found_in_blogFiles": "avalon_and_mammoth lakes.json,avalon_and_monterey.json,bakersfield_and_fremont.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,berkeley_and_santa barbara.json,fremont_and_santa barbara.json,fresno_and_sausalito.json,fresno_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,monterey_and_sacramento.json,mammoth lakes_and_pismo beach.json,oakland_and_santa barbara.json,sacramento_and_san luis obispo.json,sacramento_and_santa barbara.json,sacramento_and_sausalito.json,sacramento_and_san bernardino.json,san jose_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "39.2615606",
+    "abstract": "Nevada City (originally, Ustumah, a Nisenan Maidu village; later, Nevada, Deer Creek Dry Diggins, and Caldwell's Upper Store) is the county seat of Nevada County, California, United States, located 60 miles (97 km) northeast of Sacramento and 28 miles north of Auburn. In 1900, 3,250 people lived in Nevada City; in 1910, 2,689 lived there; at the 2000 census, the population was 3,001, and at the 2010 census it was 3,068.",
+    "mention_latitude": "39.2615606",
+    "attraction_longitude": "-121.0160593",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "nevada city",
+    "mention_address": "Nevada City, Nevada County, California, United States of America",
+    "youTubeLinkIds": "BOTzq5waEho,qfIT_5m-QQo,tyxpkNVvurk",
+    "mention_popularity": "13",
+    "mention_longitude": "-121.0160593",
+    "attraction_in": "Nevada City",
+    "no_of_blogFiles": "26",
+    "comment": "Nevada City (originally, Ustumah, a Nisenan Maidu village; later, Nevada, Deer Creek Dry Diggins, and Caldwell's Upper Store) is the county seat of Nevada County, California, United States, located 60 miles (97 km) northeast of Sacramento and 28 miles north of Auburn. In 1900, 3,250 people lived in Nevada City; in 1910, 2,689 lived there; at the 2000 census, the population was 3,001, and at the 2010 census it was 3,068."
+}

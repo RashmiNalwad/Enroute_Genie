@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/San_Leandro_Marina_07829.JPG",
+        "http://fr.academic.ru/pictures/frwiki/83/San_Leandro_Marina_07830.JPG",
+        "http://pics4.city-data.com/cpicc/cfiles14202.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/San_Leandro,_California",
+    "attraction_in_file": "san_leandro.json",
+    "label": "San Leandro, California",
+    "mention_found_in_blogFiles": "berkeley_and_long beach.json,berkeley_and_san jose.json,berkeley_and_sacramento.json,berkeley_and_fremont.json,beverly hills_and_oakland.json,fremont_and_oakland.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.7249296",
+    "abstract": "San Leandro is a suburban city in Alameda County, California, United States. The population was 86,869 in 2014. It is located on the eastern shore of San Francisco Bay, between Oakland to the northwest and Hayward to the southeast.",
+    "mention_latitude": "37.7249296",
+    "attraction_longitude": "-122.1560767",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "san leandro",
+    "mention_address": "San Leandro, Alameda County, California, United States of America",
+    "youTubeLinkIds": "e331w_lFzdA,-hGmeofDUKQ,So5ypvK9OOY",
+    "mention_popularity": "9",
+    "mention_longitude": "-122.1560767",
+    "attraction_in": "San Leandro",
+    "no_of_blogFiles": "6",
+    "comment": "San Leandro is a suburban city in Alameda County, California, United States. The population was 86,869 in 2014. It is located on the eastern shore of San Francisco Bay, between Oakland to the northwest and Hayward to the southeast."
+}

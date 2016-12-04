@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://readtiger.com/img/wkp/en/Trinidad-ca-state-beach.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Trinidad_California.jpg",
+        "http://www.trinidad-ca.com/discover/images/beaches.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Trinidad,_California",
+    "attraction_in_file": "trinidad.json",
+    "label": "Trinidad, California",
+    "mention_found_in_blogFiles": "fremont_and_los angeles.json,newport beach_and_sausalito.json,santa ana_and_santa cruz.json",
+    "mention_type": "city",
+    "attraction_latitude": "41.059291",
+    "abstract": "Trinidad (Chetco-Tolowa: tvm-sray-me\u2019; Karuk: \u00e1as uy\u00e2ahitihirak; Yurok: Chuerew; Wiyot: Da'guchwayawik, \"land is curved\") is a seaside city in Humboldt County, located on the Pacific Ocean 8 miles (13 km) north of the Arcata-Eureka Airport and 15 miles (24 km) north of the college town of Arcata. Situated at an elevation of 174 feet (53 m) above its own North Coast harbor, Trinidad is one of California's smallest incorporated cities by population (367 residents in 2010, up from 311 residents in 2000). Trinidad is noted for its spectacular coastline with ten public beaches and offshore rocks, part of the California Coastal National Monument, of which Trinidad is a Gateway City. Fishing operations related to Trinidad Harbor are vital to both local tourism and commercial fishery interests in the region.",
+    "mention_latitude": "41.059291",
+    "attraction_longitude": "-124.1431245",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "trinidad",
+    "mention_address": "Trinidad, Humboldt County, California, United States of America",
+    "youTubeLinkIds": "JfDHwKIG_qs,L7sgQl_qQy4,DHgioHUR6rQ",
+    "mention_popularity": "3",
+    "mention_longitude": "-124.1431245",
+    "attraction_in": "Trinidad",
+    "no_of_blogFiles": "3",
+    "comment": "Trinidad (Chetco-Tolowa: tvm-sray-me\u2019; Karuk: \u00e1as uy\u00e2ahitihirak; Yurok: Chuerew; Wiyot: Da'guchwayawik, \"land is curved\") is a seaside city in Humboldt County, located on the Pacific Ocean 8 miles (13 km) north of the Arcata-Eureka Airport and 15 miles (24 km) north of the college town of Arcata. Situated at an elevation of 174 feet (53 m) above its own North Coast harbor, Trinidad is one of California's smallest incorporated cities by population (367 residents in 2010, up from 311 residents in 2000). Trinidad is noted for its spectacular coastline with ten public beaches and offshore rocks, part of the California Coastal National Monument, of which Trinidad is a Gateway City. Fishing operations related to Trinidad Harbor are vital to both local tourism and commercial fishery interests in"
+}

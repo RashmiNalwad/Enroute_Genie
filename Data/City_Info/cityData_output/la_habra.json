@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://images.onset.freedom.com/ocregister/kpij93-10greenhutlahabra1large.jpg",
+        "http://vignette2.wikia.nocookie.net/prowrestling/images/d/d9/La_Habra_Heights%2C_California.jpg/revision/latest?cb=20121116210108",
+        "http://w0.fast-meteo.com/locationmaps/San-Gabriel-1.10.gif"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/La_Habra,_California",
+    "attraction_in_file": "la_habra.json",
+    "label": "La Habra, California",
+    "mention_found_in_blogFiles": "anaheim_and_los angeles.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.9318775",
+    "abstract": "La Habra is a city in the northwestern corner of Orange County, California, United States. In the 2010 census, the city had a population of 60,239. Its related city, La Habra Heights, is located to the north of La Habra, and is in Los Angeles County.",
+    "mention_latitude": "33.9318775",
+    "attraction_longitude": "-117.9461073",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "la habra",
+    "mention_address": "La Habra, Orange County, California, United States of America",
+    "youTubeLinkIds": "_hnb_SFnqBE,m8Gafoc7CJY",
+    "mention_popularity": "1",
+    "mention_longitude": "-117.9461073",
+    "attraction_in": "La Habra",
+    "no_of_blogFiles": "1",
+    "comment": "La Habra is a city in the northwestern corner of Orange County, California, United States. In the 2010 census, the city had a population of 60,239. Its related city, La Habra Heights, is located to the north of La Habra, and is in Los Angeles County."
+}

@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ferndale.jpg",
+        "http://www.city-data.com/forum/attachments/idaho/58492d1266817845-logging-companies-lewiston-north-ferndale-calif-downtown.jpg",
+        "http://www.donwinslow.net/ferndale%201051.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Ferndale,_California",
+    "attraction_in_file": "ferndale.json",
+    "label": "Ferndale, California",
+    "mention_found_in_blogFiles": "anaheim_and_santa cruz.json,avalon_and_santa cruz.json,carlsbad_and_santa cruz.json,huntington beach_and_napa.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,irvine_and_san jose.json,irvine_and_santa cruz.json,huntington beach_and_san jose.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_santa cruz.json,mammoth lakes_and_san diego.json,napa_and_pismo beach.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,oakland_and_santa monica.json,sacramento_and_santa barbara.json,sacramento_and_santa monica.json,san diego_and_santa cruz.json,san francisco_and_santa monica.json,sacramento_and_san bernardino.json,san jose_and_santa monica.json,santa cruz_and_santa monica.json",
+    "mention_type": "city",
+    "attraction_latitude": "40.5762406",
+    "abstract": "Ferndale is a city in Humboldt County, California, United States. Its population was 1,371 at the 2010 census, down from 1,382 at the 2000 census. The city contains dozens of well-preserved Victorian storefronts and homes. Ferndale is the northern gateway to California's Lost Coast and the city, which is sited on the edge of a wide plain near the mouth of the Eel River, is also located near the extensive preserves of Coast Redwood forests.",
+    "mention_latitude": "40.5762406",
+    "attraction_longitude": "-124.2639441",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "ferndale",
+    "mention_address": "Ferndale, Humboldt County, California, United States of America",
+    "youTubeLinkIds": "4pZB1NzCyDg,2NmyjMB0oW4,vJ7DckJOerA",
+    "mention_popularity": "3",
+    "mention_longitude": "-124.2639441",
+    "attraction_in": "Ferndale",
+    "no_of_blogFiles": "29",
+    "comment": "Ferndale is a city in Humboldt County, California, United States. Its population was 1,371 at the 2010 census, down from 1,382 at the 2000 census. The city contains dozens of well-preserved Victorian storefronts and homes. Ferndale is the northern gateway to California's Lost Coast and the city, which is sited on the edge of a wide plain near the mouth of the Eel River, is also located near the extensive preserves of Coast Redwood forests."
+}

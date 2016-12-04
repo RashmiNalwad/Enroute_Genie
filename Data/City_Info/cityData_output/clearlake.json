@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://www.walldevil.com/wallpapers/a80/clear-lake-lake-mountain-california-usa.jpg",
+        "http://14xzed49fvbr1rz34z3796b2.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/original_2_poppydock.jpg",
+        "http://riehlife.wpengine.netdna-cdn.com/wp-content/uploads/2010/07/Clear-Lake-California4.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Clearlake,_California",
+    "attraction_in_file": "clearlake.json",
+    "label": "Clearlake, California",
+    "mention_found_in_blogFiles": "fresno_and_stockton.json,oakland_and_san bernardino.json,san bernardino_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.9582307",
+    "abstract": "Clearlake is a city in Lake County, California. Clearlake is 4.5 miles (7.2 km) north-northwest of Lower Lake, at an elevation of 1417 feet (432 m). As of the 2010 census, the city had a total population of 15,250, up from 13,142 at the 2000 census. It takes its name from Clear Lake.",
+    "mention_latitude": "38.9582307",
+    "attraction_longitude": "-122.6263727",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "clearlake",
+    "mention_address": "Clearlake, Lake County, California, United States of America",
+    "youTubeLinkIds": "BdeoR6vNE38,wBYvjTpe22w,_E6LBp2AEjI",
+    "mention_popularity": "1",
+    "mention_longitude": "-122.6263727",
+    "attraction_in": "Clearlake",
+    "no_of_blogFiles": "3",
+    "comment": "Clearlake is a city in Lake County, California. Clearlake is 4.5 miles (7.2 km) north-northwest of Lower Lake, at an elevation of 1417 feet (432 m). As of the 2010 census, the city had a total population of 15,250, up from 13,142 at the 2000 census. It takes its name from Clear Lake."
+}

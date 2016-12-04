@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://readtiger.com/img/wkp/ru/Downtownsancarlos.jpg",
+        "https://readtiger.com/img/wkp/en/Southern_Pacific_Depot,_559_El_Camino_Real,_San_Carlos,_CA_9-5-2011_4-46-24_PM.JPG",
+        "http://homeschannel.net/images/284234-where-is-santa-clara-california.gif"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/San_Carlos,_California",
+    "attraction_in_file": "san_carlos.json",
+    "label": "San Carlos, California",
+    "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_fremont.json,big bear lake_and_sausalito.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_sausalito.json,fresno_and_irvine.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san jose.json,fresno_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_stockton.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,mammoth lakes_and_sausalito.json,oakland_and_san jose.json,oakland_and_santa clarita.json,pasadena_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_sausalito.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.4982065",
+    "abstract": "San Carlos is a city in San Mateo County, California, USA on the San Francisco Peninsula, about halfway between San Francisco and San Jose. It is a small affluent residential suburb located between Belmont to the north and Redwood City to the south. The population was 28,406 at the 2010 census.",
+    "mention_latitude": "37.4982065",
+    "attraction_longitude": "-122.266149723864",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "san carlos",
+    "mention_address": "San Carlos, San Mateo County, California, United States of America",
+    "youTubeLinkIds": "gUF2m0MYCFA,kuhJyqO4VF8,-dJU4ZpeW8g",
+    "mention_popularity": "5",
+    "mention_longitude": "-122.266149723864",
+    "attraction_in": "San Carlos",
+    "no_of_blogFiles": "63",
+    "comment": "San Carlos is a city in San Mateo County, California, USA on the San Francisco Peninsula, about halfway between San Francisco and San Jose. It is a small affluent residential suburb located between Belmont to the north and Redwood City to the south. The population was 28,406 at the 2010 census."
+}

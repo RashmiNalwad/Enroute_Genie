@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.paxtonlocksmithing.com/yahoo_site_admin/assets/images/sanger_locksmith.24131230_std.jpg",
+        "http://cdn77.orangesmile.com/h-thumbs/90/us/380732-10.jpg",
+        "http://f2.mixupload.com/media/track/1032/831/cover_orig.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Sanger,_California",
+    "attraction_in_file": "sanger.json",
+    "label": "Sanger, California",
+    "mention_found_in_blogFiles": "bakersfield_and_fresno.json",
+    "mention_type": "city",
+    "attraction_latitude": "36.708006",
+    "abstract": "Sanger is a city in Fresno County, California, United States. The population was 24,270 at the 2010 census, up from 18,731 at the 2000 census. Sanger is located 13 miles (21 km) east-southeast of Fresno, at an elevation of 371 feet (113 m).",
+    "mention_latitude": "36.708006",
+    "attraction_longitude": "-119.5559651",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "sanger",
+    "mention_address": "Sanger, Fresno County, California, United States of America",
+    "youTubeLinkIds": "bQUWlzmXX3M,buuYIBejsuM",
+    "mention_popularity": "1",
+    "mention_longitude": "-119.5559651",
+    "attraction_in": "Sanger",
+    "no_of_blogFiles": "1",
+    "comment": "Sanger is a city in Fresno County, California, United States. The population was 24,270 at the 2010 census, up from 18,731 at the 2000 census. Sanger is located 13 miles (21 km) east-southeast of Fresno, at an elevation of 371 feet (113 m)."
+}

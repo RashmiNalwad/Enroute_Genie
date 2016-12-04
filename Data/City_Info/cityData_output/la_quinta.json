@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://files.onlyimage.com/free/thumbs/ee7/la-quinta-los-angeles-california-1704424.jpg",
+        "http://st.hzcdn.com/simgs/3b51d1a20102e3e6_4-3914/mediterranean-exterior.jpg",
+        "http://zabugor.com/uploads/thumb/1/page_backimage/5423-keniya._nacionalnyy_zapovednik_masai-mara_2.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/La_Quinta,_California",
+    "attraction_in_file": "la_quinta.json",
+    "label": "La Quinta, California",
+    "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_fresno.json,anaheim_and_sacramento.json,anaheim_and_santa barbara.json,beverly hills_and_sausalito.json,berkeley_and_santa monica.json,carlsbad_and_santa barbara.json,carlsbad_and_santa monica.json,fremont_and_santa monica.json,long beach_and_san francisco.json,napa_and_santa barbara.json,napa_and_santa monica.json,monterey_and_santa monica.json,newport beach_and_santa barbara.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,san bernardino_and_santa barbara.json,san bernardino_and_santa monica.json,san diego_and_santa barbara.json,san diego_and_santa monica.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa monica.json,santa ana_and_santa barbara.json,santa barbara_and_temecula.json,santa monica_and_stockton.json,santa monica_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.677474",
+    "abstract": "La Quinta is a resort city in Riverside County, California, USA, specifically in the Coachella Valley between Indian Wells and Indio. The population was 37,467 at the 2010 census, up from 23,694 at the 2000 census. The Robb Report credits La Quinta as the leading golf destination in the US. Among those destinations is the La Quinta Resort and Club, a resort dating to 1926, where director Frank Capra wrote the screenplay for Lost Horizon. The Tom Fazio-designed golf course at The Quarry at La Quinta is ranked among the top 100 golf courses in the United States. In January 2008, the Arnold Palmer Classic Course at the city's SilverRock Golf Resort became one of the four host golf courses for the annual Bob Hope Chrysler Classic PGA golf tournament.",
+    "mention_latitude": "33.677474",
+    "attraction_longitude": "-116.2958788",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "la quinta",
+    "mention_address": "La Quinta, Riverside County, California, United States of America",
+    "youTubeLinkIds": "jMZ3Whv2Pw0,opmQdaFtWUM,G4jIyA6Ih_k",
+    "mention_popularity": "3",
+    "mention_longitude": "-116.2958788",
+    "attraction_in": "La Quinta",
+    "no_of_blogFiles": "28",
+    "comment": "La Quinta is a resort city in Riverside County, California, USA, specifically in the Coachella Valley between Indian Wells and Indio. The population was 37,467 at the 2010 census, up from 23,694 at the 2000 census. The Robb Report credits La Quinta as the leading golf destination in the US. Among those destinations is the La Quinta Resort and Club, a resort dating to 1926, where director Frank Capra wrote the screenplay for Lost Horizon. The Tom Fazio-designed golf course at The Quarry at La Quinta is ranked among the top 100 golf courses in the United States. In January 2008, the Arnold Palmer Classic Course at the city's SilverRock Golf Resort became one of the four host golf courses for the annual Bob Hope Chrysler Classic PGA golf tournament."
+}

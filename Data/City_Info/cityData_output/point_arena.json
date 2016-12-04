@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.lighthouses-unlimited.com/itemimages/ap103blrg.jpg",
+        "https://pixabay.com/static/uploads/photo/2013/06/14/22/13/point-arena-california-139404_640.jpg",
+        "http://www.terragalleria.com/images/us-ca/usca61081.small.jpeg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Point_Arena,_California",
+    "attraction_in_file": "point_arena.json",
+    "label": "Point Arena, California",
+    "mention_found_in_blogFiles": "avalon_and_oakland.json,long beach_and_san francisco.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa cruz.json,oakland_and_san diego.json,san diego_and_sausalito.json,newport beach_and_sausalito.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.908798",
+    "abstract": "Point Arena (formerly, Punta Arenas and Puntas Arenas) is a small coastal city in Mendocino County, California, United States. Point Arena is located 31 miles (50 km) west of Hopland, at an elevation of 118 feet (36 m) . The population was 449 at the 2010 census, down from 474 at the 2000 census, making it one of the smallest incorporated cities in the state. Its main street comprises part of State Route 1, California's coastal artery. Along with a number of other Mendocino County coastal communities, Point Arena is associated with the hippie and subsequent counterculture groups. Its reported economy is largely geared toward servicing the summertime tourist industry and marijuana growth. The City is near the headquarters of the Manchester Band of Pomo Indians of the Manchester-Point Arena Rancheria.",
+    "mention_latitude": "38.908798",
+    "attraction_longitude": "-123.6930725",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "point arena",
+    "mention_address": "Point Arena, Mendocino County, California, United States of America",
+    "youTubeLinkIds": "0XCkoPVWjk8,sLEFoNMGuLo,nBq6Pfzjrvc",
+    "mention_popularity": "3",
+    "mention_longitude": "-123.6930725",
+    "attraction_in": "Point Arena",
+    "no_of_blogFiles": "9",
+    "comment": "Point Arena (formerly, Punta Arenas and Puntas Arenas) is a small coastal city in Mendocino County, California, United States. Point Arena is located 31 miles (50 km) west of Hopland, at an elevation of 118 feet (36 m) . The population was 449 at the 2010 census, down from 474 at the 2000 census, making it one of the smallest incorporated cities in the state. Its main street comprises part of State Route 1, California's coastal artery. Along with a number of other Mendocino County coastal communities, Point Arena is associated with the hippie and subsequent counterculture groups. Its reported economy is largely geared toward servicing the summertime tourist industry and marijuana growth. The City is near the headquarters of the Manchester Band of Pomo Indians of the Manchester-Point Arena"
+}

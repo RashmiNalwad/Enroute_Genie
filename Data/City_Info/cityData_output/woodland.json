@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/DowntownWoodland.JPG",
+        "https://www.sei-international.org/mediamanager/images/News/sei-2016-yolo5.jpg",
+        "http://s3-eu-west-1.amazonaws.com/youroute-media/system/photos/images/000/361/856/4a3cf35095d172c9858f119cb4003b1eceeb2ff9_original.jpg?1419552439"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Woodland,_California",
+    "attraction_in_file": "woodland.json",
+    "label": "Woodland, California",
+    "mention_found_in_blogFiles": "anaheim_and_sacramento.json,anaheim_and_stockton.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_carlsbad.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,napa_and_sacramento.json,napa_and_stockton.json,riverside_and_stockton.json,sacramento_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.6786109",
+    "abstract": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census. Woodland's origins trace back to 1850 when California gained its statehood and Yolo County was established. Since the town started growing in population and resources, it has not stopped. The area was well irrigated due to the efforts of James Moore, and this drew people out to try their hand at farming. The endeavor was successful as people found the soil in the area very fertile. The city gained a federal post office and the next year the county seat was moved from Washington (present day West Sacramento, California) to Woodland after Washington was flooded. The addition of a railroad line, the close proximity to Sacramento, and the more recent addition of Interstate 5, helped create a thriving city.",
+    "mention_latitude": "38.6786109",
+    "attraction_longitude": "-121.7733284",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "woodland",
+    "mention_address": "Woodland, Yolo County, California, United States of America",
+    "youTubeLinkIds": "imqWdNQOWGw,CTV10_J7QHI,m10yenBRPPk",
+    "mention_popularity": "3",
+    "mention_longitude": "-121.7733284",
+    "attraction_in": "Woodland",
+    "no_of_blogFiles": "14",
+    "comment": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census."
+}

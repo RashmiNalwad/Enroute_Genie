@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://readtiger.com/img/wkp/ru/ConcordSquare.JPG",
+        "http://www.internationalrec.com/wp-content/uploads/2016/06/ConcordCA_international_rec_valve_buyers.jpg",
+        "http://www.cowellhistoricalsociety.org/assets/images/Concord_1995.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Concord,_California",
+    "attraction_in_file": "concord.json",
+    "label": "Concord, California",
+    "mention_found_in_blogFiles": "berkeley_and_monterey.json,berkeley_and_sacramento.json,berkeley_and_santa barbara.json,berkeley_and_stockton.json,berkeley_and_fremont.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_sausalito.json,irvine_and_mammoth lakes.json,long beach_and_oakland.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,napa_and_riverside.json,napa_and_santa clarita.json,oakland_and_san jose.json,oakland_and_santa barbara.json,sacramento_and_san francisco.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.9768525",
+    "abstract": "Concord (/\u02c8k\u0252\u014bk\u0259rd/ KONG-k\u0259rd; formerly Todos Santos) is the largest city in Contra Costa County, California. At the 2010 census, the city had a population of 122,067 making it the 8th largest city in the San Francisco Bay Area. Founded in 1869 as the community of Todos Santos by Salvio Pacheco, the name was changed to Concord within months. The city is a major regional suburban East Bay center within the San Francisco Bay Area, and is 29 miles (47 km) east of San Francisco.",
+    "mention_latitude": "37.9768525",
+    "attraction_longitude": "-122.0335623",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "concord",
+    "mention_address": "Concord, Contra Costa County, California, United States of America",
+    "youTubeLinkIds": "87uETsrePyM,sOn-0y8Y6XE,1FuyYzIWOq8",
+    "mention_popularity": "9",
+    "mention_longitude": "-122.0335623",
+    "attraction_in": "Concord",
+    "no_of_blogFiles": "19",
+    "comment": "Concord (/\u02c8k\u0252\u014bk\u0259rd/ KONG-k\u0259rd; formerly Todos Santos) is the largest city in Contra Costa County, California. At the 2010 census, the city had a population of 122,067 making it the 8th largest city in the San Francisco Bay Area. Founded in 1869 as the community of Todos Santos by Salvio Pacheco, the name was changed to Concord within months. The city is a major regional suburban East Bay center within the San Francisco Bay Area, and is 29 miles (47 km) east of San Francisco."
+}

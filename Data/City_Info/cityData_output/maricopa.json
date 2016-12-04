@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/MaricopaWithGasFlare.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/California-Zephyr-MaricopaAZ.JPG",
+        "http://mw2.google.com/mw-panoramio/photos/medium/7999635.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Maricopa,_California",
+    "attraction_in_file": "maricopa.json",
+    "label": "Maricopa, California",
+    "mention_found_in_blogFiles": "bakersfield_and_pismo beach.json",
+    "mention_type": "city",
+    "attraction_latitude": "35.058858",
+    "abstract": "Maricopa is a city in Kern County, California. Maricopa is located 6.5 miles (10 km) south-southeast of Taft, at an elevation of 883 feet (269 m). The population was 1,154 at the 2010 census, up from 1,111 at the 2000 census. Maricopa lies at the junction of Route 166 and Route 33. The Carrizo Plain is located to the northwest, and the enormous Midway-Sunset Oil Field, the third largest oil field in the United States, is adjacent on the north and east.",
+    "mention_latitude": "35.058858",
+    "attraction_longitude": "-119.4009508",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "maricopa",
+    "mention_address": "Maricopa, Kern County, California, United States of America",
+    "youTubeLinkIds": "7CEF1ar7Adc",
+    "mention_popularity": "1",
+    "mention_longitude": "-119.4009508",
+    "attraction_in": "Maricopa",
+    "no_of_blogFiles": "1",
+    "comment": "Maricopa is a city in Kern County, California. Maricopa is located 6.5 miles (10 km) south-southeast of Taft, at an elevation of 883 feet (269 m). The population was 1,154 at the 2010 census, up from 1,111 at the 2000 census. Maricopa lies at the junction of Route 166 and Route 33. The Carrizo Plain is located to the northwest, and the enormous Midway-Sunset Oil Field, the third largest oil field in the United States, is adjacent on the north and east."
+}

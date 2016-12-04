@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Downtown_Susanville_1.jpg",
+        "https://readtiger.com/img/wkp/en/Downtown_Susanville_2.jpg",
+        "http://1.bp.blogspot.com/_i90_v6awmPA/S-YU4QYnB8I/AAAAAAAAAy0/CP53s5ahJjw/s1600/susanville_CA.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Susanville,_California",
+    "attraction_in_file": "susanville.json",
+    "label": "Susanville, California",
+    "mention_found_in_blogFiles": "mammoth lakes_and_pasadena.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "40.4162842",
+    "abstract": "Susanville (formerly known as Rooptown) is the county seat of Lassen County, California, United States. Susanville is located on the Susan River in southern part of the county, at an elevation of 4,186 feet (1,276 m). The population was 17,974 at the 2010 census, up from 13,541 at the 2000 census. Susanville, a former logging and mining town, is the site of the High Desert State Prison, California (not to be confused with High Desert State Prison, Nevada) and California Correctional Center. High Desert State Prison, a maximum-security facility, opened in 1995; the California Correctional Center, a minimum-medium security facility, opened in 1963. The prisons and their effects on the community were featured on the PBS documentary, Prison Town, USA.",
+    "mention_latitude": "40.4162842",
+    "attraction_longitude": "-120.6530062",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "susanville",
+    "mention_address": "Susanville, Lassen County, California, United States of America",
+    "youTubeLinkIds": "XcvMmzM8Izg,fcYUUQDHkyk,bD3zbSL-sgY",
+    "mention_popularity": "4",
+    "mention_longitude": "-120.6530062",
+    "attraction_in": "Susanville",
+    "no_of_blogFiles": "8",
+    "comment": "Susanville (formerly known as Rooptown) is the county seat of Lassen County, California, United States. Susanville is located on the Susan River in southern part of the county, at an elevation of 4,186 feet (1,276 m). The population was 17,974 at the 2010 census, up from 13,541 at the 2000 census. Susanville, a former logging and mining town, is the site of the High Desert State Prison, California (not to be confused with High Desert State Prison, Nevada) and California Correctional Center. High Desert State Prison, a maximum-security facility, opened in 1995; the California Correctional Center, a minimum-medium security facility, opened in 1963. The prisons and their effects on the community were featured on the PBS documentary, Prison Town, USA."
+}

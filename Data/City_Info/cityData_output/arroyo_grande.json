@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://homeandranchsir.com/wp-content/uploads/2015/05/1001-Corbett-Canyon-Rd-Arroyo-large-001-Front-of-Home-1499x1000-72dpi1-1110x623.jpg",
+        "https://media.xogrp.com/images/24f48052-56d9-4084-b011-cd24c718623f",
+        "http://images.housesforsalelists.com/Images/Houses/ca/arroyo-grande/579-camino-mercado-arroyo-grande-california-93420.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Arroyo_Grande,_California",
+    "attraction_in_file": "arroyo_grande.json",
+    "label": "Arroyo Grande, California",
+    "mention_found_in_blogFiles": "anaheim_and_oakland.json,anaheim_and_san luis obispo.json,avalon_and_pismo beach.json,bakersfield_and_san luis obispo.json,berkeley_and_san luis obispo.json,beverly hills_and_san luis obispo.json,fremont_and_san luis obispo.json,fresno_and_san luis obispo.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,long beach_and_pismo beach.json,long beach_and_san luis obispo.json,malibu_and_pismo beach.json,monterey_and_san luis obispo.json,monterey_and_santa barbara.json,napa_and_pismo beach.json,napa_and_santa barbara.json,long beach_and_santa barbara.json,newport beach_and_san luis obispo.json,oakland_and_san luis obispo.json,pasadena_and_pismo beach.json,pasadena_and_san luis obispo.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_san luis obispo.json,pismo beach_and_santa ana.json,pismo beach_and_santa barbara.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_san luis obispo.json,sacramento_and_san luis obispo.json,san bernardino_and_santa barbara.json,san jose_and_san luis obispo.json,oakland_and_pismo beach.json,santa clarita_and_sausalito.json,san luis obispo_and_santa ana.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "35.1185869",
+    "abstract": "Arroyo Grande is a city in San Luis Obispo County, California, United States. The population was 17,716 at the 2013 census.",
+    "mention_latitude": "35.1185869",
+    "attraction_longitude": "-120.5907251",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "arroyo grande",
+    "mention_address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+    "youTubeLinkIds": "aB8wDYfTbNo,3gkrQhHsy9g,QTKKljlZ7g8",
+    "mention_popularity": "10",
+    "mention_longitude": "-120.5907251",
+    "attraction_in": "Arroyo Grande",
+    "no_of_blogFiles": "39",
+    "comment": "Arroyo Grande is a city in San Luis Obispo County, California, United States. The population was 17,716 at the 2013 census."
+}

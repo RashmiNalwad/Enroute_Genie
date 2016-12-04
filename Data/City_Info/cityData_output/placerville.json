@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://pics4.city-data.com/cpicc/cfiles45566.jpg",
+        "http://s41.radikal.ru/i094/1005/9f/fa3518f68b65.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/2009-0724-Placerville-JPSodaWorks.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Swansboro,_California",
+    "attraction_in_file": "placerville.json",
+    "label": "Swansboro, California",
+    "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_mammoth lakes.json,avalon_and_sacramento.json,anaheim_and_napa.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,big bear lake_and_sacramento.json,big bear lake_and_sausalito.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_santa barbara.json,fresno_and_los angeles.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san jose.json,fresno_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_sausalito.json,long beach_and_stockton.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_sacramento.json,napa_and_san luis obispo.json,napa_and_santa monica.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,napa_and_temecula.json,oakland_and_sacramento.json,oakland_and_san luis obispo.json,oakland_and_santa clarita.json,pasadena_and_sausalito.json,pismo beach_and_sacramento.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_stockton.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san diego_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.7296252",
+    "abstract": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area.",
+    "mention_latitude": "38.7296252",
+    "attraction_longitude": "-120.7985459",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "placerville",
+    "mention_address": "Placerville, El Dorado County, California, United States of America",
+    "youTubeLinkIds": "O7K2-l7-kD8,-89tMr3t9uc,DyX7SZMrhs4",
+    "mention_popularity": "21",
+    "mention_longitude": "-120.7985459",
+    "attraction_in": "Placerville",
+    "no_of_blogFiles": "90",
+    "comment": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area."
+}

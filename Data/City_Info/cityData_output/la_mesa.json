@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.movewithtitan.com/wp-content/uploads/2011/07/La-Mesa-California.jpg",
+        "http://www.seniorcareauthority.com/assisted-living/previews/grossmont-gardens-in-la-mesa-california.jpg",
+        "http://c.otcdn.com/imglib/hotelfotos/8/125/hotel-the-heritage-inn-la-mesa-026.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/La_Mesa,_California",
+    "attraction_in_file": "la_mesa.json",
+    "label": "La Mesa, California",
+    "mention_found_in_blogFiles": "anaheim_and_carlsbad.json,anaheim_and_san francisco.json,avalon_and_carlsbad.json,avalon_and_san diego.json,beverly hills_and_carlsbad.json,avalon_and_temecula.json,bakersfield_and_temecula.json,beverly hills_and_temecula.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_napa.json,carlsbad_and_riverside.json,carlsbad_and_san bernardino.json,carlsbad_and_los angeles.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san francisco_and_temecula.json,san jose_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "32.7678288",
+    "abstract": "La Mesa is a city in Southern California, located 9 miles (14 km) east of Downtown San Diego in San Diego County. The population was 57,065 at the 2010 census, up from 54,749 at the 2000 census. Its civic motto is \"the Jewel of the Hills.\"",
+    "mention_latitude": "32.7678288",
+    "attraction_longitude": "-117.0230838",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "la mesa",
+    "mention_address": "La Mesa, San Diego County, California, United States of America",
+    "youTubeLinkIds": "ydXzAqZTzzQ,j9iP5hezIgw,-89tMr3t9uc",
+    "mention_popularity": "4",
+    "mention_longitude": "-117.0230838",
+    "attraction_in": "La Mesa",
+    "no_of_blogFiles": "19",
+    "comment": "La Mesa is a city in Southern California, located 9 miles (14 km) east of Downtown San Diego in San Diego County. The population was 57,065 at the 2010 census, up from 54,749 at the 2000 census. Its civic motto is \"the Jewel of the Hills.\""
+}

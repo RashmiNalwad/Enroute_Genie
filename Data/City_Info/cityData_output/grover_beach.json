@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://annakatmore.files.wordpress.com/2013/08/grover-beach.jpg",
+        "https://readtiger.com/img/wkp/en/Grover_Beach_sign.jpg",
+        "https://pixabay.com/static/uploads/photo/2013/03/21/14/16/california-95575_960_720.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Grover_Beach,_California",
+    "attraction_in_file": "grover_beach.json",
+    "label": "Grover Beach, California",
+    "mention_found_in_blogFiles": "avalon_and_monterey.json,bakersfield_and_monterey.json,bakersfield_and_pismo beach.json,berkeley_and_pismo beach.json,carlsbad_and_monterey.json,fremont_and_pismo beach.json,irvine_and_monterey.json,irvine_and_santa barbara.json,long beach_and_pismo beach.json,long beach_and_san luis obispo.json,los angeles_and_monterey.json,los angeles_and_pismo beach.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_santa barbara.json,pismo beach_and_riverside.json,pismo beach_and_sausalito.json,san luis obispo_and_santa cruz.json",
+    "mention_type": "city",
+    "attraction_latitude": "35.1209452",
+    "abstract": "Grover Beach is a city in San Luis Obispo County, California, United States. The population was 13,156 at the 2010 census, up from 13,067 in 2000.",
+    "mention_latitude": "35.1209452",
+    "attraction_longitude": "-120.6218375",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "grover beach",
+    "mention_address": "Grover Beach, San Luis Obispo County, California, United States of America",
+    "youTubeLinkIds": "5cu9Hg1vDvg,J20eucwsofM,Jq02Iol8tjE",
+    "mention_popularity": "7",
+    "mention_longitude": "-120.6218375",
+    "attraction_in": "Grover Beach",
+    "no_of_blogFiles": "18",
+    "comment": "Grover Beach is a city in San Luis Obispo County, California, United States. The population was 13,156 at the 2010 census, up from 13,067 in 2000."
+}

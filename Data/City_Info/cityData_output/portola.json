@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.dom-kaminov.com/img/3D/kaliforniya.jpg",
+        "http://kaminchi.ru/image/data/Kamin-elektro/Komplekt/Dimplex/Florence/CaliforniaEngine%2056-600.JPG",
+        "http://yutnoff.ru/images/stories/virtuemart/product/kaminokomplekt-dimplex-kaliforniya-portal-california-ochag-symphony-df-2608-yutnoff.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Portola,_California",
+    "attraction_in_file": "portola.json",
+    "label": "Portola, California",
+    "mention_found_in_blogFiles": "big bear lake_and_napa.json",
+    "mention_type": "city",
+    "attraction_latitude": "39.8104567",
+    "abstract": "Portola is the only incorporated city in Plumas County, California, United States. The population was 2,104 at the 2010 census, down from 2,227 at the 2000 census. Portola is located on the Middle Fork of the Feather River, and was named after Spanish explorer Gaspar de Portol\u00e1, despite his never having actually explored the surrounding area. The place name is generally mispronounced, with stress on the middle syllable, thus ignoring the accent mark in its namesake's surname. Portola is a crew change site on the Western Pacific Railroad (now Union Pacific Railroad) Feather River Route over the Sierra Nevada mountains. The city is also home to the Western Pacific Railroad Museum (formerly Portola Railroad Museum), one of the largest railroad museums in the Western US. The museum is famous for its Run A Locomotive program, where the public can participate in a \"fantasy experience\" program allowing them to run a railroad locomotive on the museum grounds. Portola was in the national media spotlight in 1996\u20131997 when a conflict occurred between the local community and the Department of Fish and Game over how to deal with an invasive species of Northern Pike in Lake Davis. The lake was chemically treated in 1997 to eradicate the fish, but they reappeared in 1999. In early September 2007, the California Department of Fish and Game eradicated the pike using CFT Legumine, a new liquid formulation of rotenone .",
+    "mention_latitude": "39.8104567",
+    "attraction_longitude": "-120.4691033",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "portola",
+    "mention_address": "Portola, Plumas County, California, United States of America",
+    "youTubeLinkIds": "1WL0FDho6UQ,qdyRVfixF74",
+    "mention_popularity": "1",
+    "mention_longitude": "-120.4691033",
+    "attraction_in": "Portola",
+    "no_of_blogFiles": "1",
+    "comment": "Portola is the only incorporated city in Plumas County, California, United States. The population was 2,104 at the 2010 census, down from 2,227 at the 2000 census. Portola is located on the Middle Fork of the Feather River, and was named after Spanish explorer Gaspar de Portol\u00e1, despite his never having actually explored the surrounding area. The place name is generally mispronounced, with stress on the middle syllable, thus ignoring the accent mark in its namesake's surname."
+}

@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://dreamcoverage-production.s3.amazonaws.com/blog-assets/san_marcos.jpg",
+        "https://static.panoramio.com.storage.googleapis.com/photos/original/19976431.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/California_State_Route_78_San_Marcos.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/San_Marcos,_California",
+    "attraction_in_file": "san_marcos.json",
+    "label": "San Marcos, California",
+    "mention_found_in_blogFiles": "avalon_and_san bernardino.json,avalon_and_temecula.json,bakersfield_and_newport beach.json,berkeley_and_carlsbad.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_san bernardino.json,irvine_and_santa barbara.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,san francisco_and_santa barbara.json,san luis obispo_and_santa ana.json,santa barbara_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.1433723",
+    "abstract": "San Marcos is a city in the North County region of San Diego County in the U.S. state of California. As of the 2010 census, the city's population was 83,781. It is the site of California State University, San Marcos. The city is bordered by Escondido to the east, Encinitas to the southwest, Carlsbad to the west, and Vista to the northeast.",
+    "mention_latitude": "33.1433723",
+    "attraction_longitude": "-117.1661448",
+    "type": "http://dbpedia.org/resource/Charter_city",
+    "mention_name": "san marcos",
+    "mention_address": "San Marcos, San Diego County, California, United States of America",
+    "youTubeLinkIds": "_VlF0ufD8Ls,H-YdzIZC4yY,Cywg-Alx1xY",
+    "mention_popularity": "8",
+    "mention_longitude": "-117.1661448",
+    "attraction_in": "San Marcos",
+    "no_of_blogFiles": "15",
+    "comment": "San Marcos is a city in the North County region of San Diego County in the U.S. state of California. As of the 2010 census, the city's population was 83,781. It is the site of California State University, San Marcos. The city is bordered by Escondido to the east, Encinitas to the southwest, Carlsbad to the west, and Vista to the northeast."
+}

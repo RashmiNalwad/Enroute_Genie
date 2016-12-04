@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://readtiger.com/img/wkp/ru/Richmond_California_aerial_view_with_bridge.jpg",
+        "http://cbsnews1.cbsistatic.com/hub/i/r/2013/07/30/e2834c82-1c4d-11e3-9918-005056850598/thumbnail/1240x700/a206e18f3cfbd7a4fa71b81cdaa2ad13/Richmond.jpg",
+        "http://static.panoramio.com/photos/original/18243064.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Richmond,_California",
+    "attraction_in_file": "richmond.json",
+    "label": "Richmond, California",
+    "mention_found_in_blogFiles": "anaheim_and_sausalito.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_sacramento.json,berkeley_and_san francisco.json,berkeley_and_fremont.json,big bear lake_and_sausalito.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_oakland.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san jose.json,fresno_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_sausalito.json,los angeles_and_sausalito.json,malibu_and_sausalito.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,mammoth lakes_and_sausalito.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san jose.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_sausalito.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.9357576",
+    "abstract": "Richmond (/\u02c8r\u026at\u0283m\u0259nd/ RICH-m\u0259nd) is a city in western Contra Costa County, California, United States. The city was incorporated on August 7, 1905. Located in the eastern region of the San Francisco Bay Area, Richmond borders the cities of San Pablo, Albany, El Cerrito and Pinole in addition to the unincorporated communities of North Richmond, Hasford Heights, Kensington, El Sobrante, Bayview-Montalvin Manor, Tara Hills, and East Richmond Heights, and briefly San Francisco on Red Rock Island. Under the McLaughlin Administration, Richmond was the largest city in the United States served by a Green Party mayor. As of the 2010 U.S. Census, the city's population is at 103,710, making it the second largest city in the United States to be named Richmond, after Richmond, Virginia.",
+    "mention_latitude": "37.9357576",
+    "attraction_longitude": "-122.3477485",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "richmond",
+    "mention_address": "Richmond, Contra Costa County, California, United States of America",
+    "youTubeLinkIds": "FvPBhrxp-x4,ZqIcxXbukWs,7ngHhWAFzBc",
+    "mention_popularity": "19",
+    "mention_longitude": "-122.3477485",
+    "attraction_in": "Richmond",
+    "no_of_blogFiles": "67",
+    "comment": "Richmond (/\u02c8r\u026at\u0283m\u0259nd/ RICH-m\u0259nd) is a city in western Contra Costa County, California, United States. The city was incorporated on August 7, 1905. Located in the eastern region of the San Francisco Bay Area, Richmond borders the cities of San Pablo, Albany, El Cerrito and Pinole in addition to the unincorporated communities of North Richmond, Hasford Heights, Kensington, El Sobrante, Bayview-Montalvin Manor, Tara Hills, and East Richmond Heights, and briefly San Francisco on Red Rock Island."
+}

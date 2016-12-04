@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401288558/xcf2ozthltrkejwvgqe4.jpg",
+        "http://static.panoramio.com/photos/large/2560443.jpg",
+        "http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401288707/pgaf4juto4vrsck5ryc9.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Downey,_California",
+    "attraction_in_file": "downey.json",
+    "label": "Downey, California",
+    "mention_found_in_blogFiles": "anaheim_and_los angeles.json,huntington beach_and_pasadena.json,long beach_and_santa clarita.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,pasadena_and_sacramento.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.9400143",
+    "abstract": "Downey is a city located in southeast Los Angeles County, California, United States, 21 km (13 mi) southeast of downtown Los Angeles. It is considered part of the Gateway Cities. The city is the birthplace of the Apollo space program, and is the hometown of Richard and Karen Carpenter. It is also the home of the oldest still operational McDonald's restaurant in the world. As of the 2010 census, the city had a total population of 111,772.",
+    "mention_latitude": "33.9400143",
+    "attraction_longitude": "-118.1325687",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "downey",
+    "mention_address": "Downey, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "FrCleCjn1eo,Rg1AS_PVBSs,aWpTH6Avrxs",
+    "mention_popularity": "3",
+    "mention_longitude": "-118.1325687",
+    "attraction_in": "Downey",
+    "no_of_blogFiles": "6",
+    "comment": "Downey is a city located in southeast Los Angeles County, California, United States, 21 km (13 mi) southeast of downtown Los Angeles. It is considered part of the Gateway Cities. The city is the birthplace of the Apollo space program, and is the hometown of Richard and Karen Carpenter. It is also the home of the oldest still operational McDonald's restaurant in the world. As of the 2010 census, the city had a total population of 111,772."
+}

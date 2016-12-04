@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Needles_California_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/84/Needles_California_4.jpg",
+        "https://redslipperdiary.files.wordpress.com/2010/02/needles-sign.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Needles,_California",
+    "attraction_in_file": "needles.json",
+    "label": "Needles, California",
+    "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_santa cruz.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_san bernardino.json,fresno_and_temecula.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,los angeles_and_napa.json,monterey_and_temecula.json,pasadena_and_san francisco.json,san bernardino_and_san francisco.json,san diego_and_san luis obispo.json,san francisco_and_temecula.json,san luis obispo_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "34.8480597",
+    "abstract": "Needles (Mojave: \u02bcAha Kuloh) is a city in San Bernardino County, California, United States. It lies on the western banks of the Colorado River in the Mohave Valley subregion of the Mojave Desert, near the borders of Arizona and Nevada and roughly 110 miles (180 km) from the Las Vegas Strip. It is also the easternmost city of the Greater Los Angeles area. The city is accessible via Interstate 40 and U.S. Route 95. The population was 4,844 at the 2010 census, up from 4,830 at the 2000 census. Needles was named after \"The Needles\", a group of pinnacles, mountain peaks in the Mohave Mountains on the Arizona side of the river to the south of the city. The large Mohave Native American community shares the nearby Fort Mojave Indian Reservation and the town. Needles is a gateway to the Mojave National Preserve.",
+    "mention_latitude": "34.8480597",
+    "attraction_longitude": "-114.6141315",
+    "type": "http://dbpedia.org/resource/Charter_city",
+    "mention_name": "needles",
+    "mention_address": "Needles, San Bernardino County, California, United States of America",
+    "youTubeLinkIds": "PPa9Lfe8BRM,O_-uws6T8WI,a7ud_luRJH0",
+    "mention_popularity": "3",
+    "mention_longitude": "-114.6141315",
+    "attraction_in": "Needles",
+    "no_of_blogFiles": "23",
+    "comment": "Needles (Mojave: \u02bcAha Kuloh) is a city in San Bernardino County, California, United States. It lies on the western banks of the Colorado River in the Mohave Valley subregion of the Mojave Desert, near the borders of Arizona and Nevada and roughly 110 miles (180 km) from the Las Vegas Strip. It is also the easternmost city of the Greater Los Angeles area. The city is accessible via Interstate 40 and U.S. Route 95. The population was 4,844 at the 2010 census, up from 4,830 at the 2000 census."
+}

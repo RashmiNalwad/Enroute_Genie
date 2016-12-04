@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://l2.yimg.com/bt/api/res/1.2/MN8.8XxtCiE9.Nofvwp_Hg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NDQwO3B5b2ZmPTA7cT03NTt3PTY4MA--/http://media.zenfs.com/en-us/homerun/complex.com/0ba653da9f8729cb77b66ec8d80be8b5",
+        "https://readtiger.com/img/wkp/ru/Murphystreetsunnyvale.jpg",
+        "http://s3.amazonaws.com/movotoblog/2014/01/safest-mid-sized-cities/images/3.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Sunnyvale,_California",
+    "attraction_in_file": "sunnyvale.json",
+    "label": "Sunnyvale, California",
+    "mention_found_in_blogFiles": "avalon_and_monterey.json,berkeley_and_san jose.json,bakersfield_and_sausalito.json,berkeley_and_fremont.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_san jose.json,fresno_and_santa clarita.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,long beach_and_oakland.json,los angeles_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_san jose.json,los angeles_and_santa cruz.json,oakland_and_san jose.json,oakland_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san jose_and_santa clarita.json,san jose_and_santa cruz.json,sacramento_and_san bernardino.json,sacramento_and_san francisco.json,san jose_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.3688301",
+    "abstract": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095. The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101. As part of California's high-tech area known as Silicon Valley, companies such as Juniper Networks, Fortinet, Advanced Micro Devices, NetApp, Spansion, Yahoo!, AppliedMicro and Ariba are headquartered there. Sunnyvale is also home to several aerospace/defense companies; Lockheed Martin has a major facility in Sunnyvale, and Honeywell, Northrop Grumman Electronic Systems - Marine Systems (formerly Joshua Hendy Iron Works), Finisar, and Spirent also have offices in Sunnyvale. Sunnyvale was also the home to Onizuka Air Force Station, often referred to as \"the Blue Cube\" due to the color and shape of its windowless main building. The facility, previously known as Sunnyvale Air Force Station, was named for the deceased Space Shuttle Challenger astronaut Ellison Onizuka. It served as an artificial satellite control facility of the United States armed forces until August 2010 and has since been decommissioned and demolished. Sunnyvale is one of the few U.S. cities to have a single unified Department of Public Safety, where all personnel are trained as firefighters, police officers, and EMTs, so they can respond to an emergency in any of the three roles. Library services for the city are provided by the Sunnyvale Public Library, located at the Sunnyvale Civic Center.",
+    "mention_latitude": "37.3688301",
+    "attraction_longitude": "-122.0363495",
+    "type": "http://dbpedia.org/resource/Charter_city",
+    "mention_name": "sunnyvale",
+    "mention_address": "Sunnyvale, Santa Clara County, California, United States of America",
+    "youTubeLinkIds": "-89tMr3t9uc,b5HSEc216_A,OJf4TUjZW7Q",
+    "mention_popularity": "20",
+    "mention_longitude": "-122.0363495",
+    "attraction_in": "Sunnyvale",
+    "no_of_blogFiles": "43",
+    "comment": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095.The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101."
+}

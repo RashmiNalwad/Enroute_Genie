@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://3.bp.blogspot.com/_iTGXYFIkfkA/TRsZL7yajbI/AAAAAAAAeHk/DFGafCD9fvg/s1600/23+Arcata-California.jpg",
+        "http://www.bestplaces.net/images/city/0602476_ca_arcata.png",
+        "http://victorianwoodshop.com/pics/arcata/arcata3.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Arcata,_California",
+    "attraction_in_file": "arcata.json",
+    "label": "Arcata, California",
+    "mention_found_in_blogFiles": "anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_oakland.json,anaheim_and_napa.json,avalon_and_sausalito.json,bakersfield_and_oakland.json,bakersfield_and_san francisco.json,bakersfield_and_sausalito.json,big bear lake_and_oakland.json,big bear lake_and_sausalito.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_sausalito.json,long beach_and_stockton.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,monterey_and_temecula.json,oakland_and_santa clarita.json,pasadena_and_sausalito.json,pismo beach_and_sacramento.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_temecula.json,santa monica_and_sausalito.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "40.8665166",
+    "abstract": "Arcata, California Arcata (Hupa: do'-khah-oon-tetl ding', meaning \"big flat place\") originally Union Town or Union, is a city adjacent to the Arcata Bay (northern) portion of Humboldt Bay in Humboldt County, California, United States. At the 2010 census, Arcata's population was 17,231. Arcata, located 280 miles (450 km) north of San Francisco (via Highway 101), is home to Humboldt State University. Arcata is also the location of the Arcata Field Office of the Federal Bureau of Land Management, which is responsible for the administration of natural resources, lands, and mineral programs, including the Headwaters Forest, on approximately 200,000 acres of public land in Northwestern California.",
+    "mention_latitude": "40.8665166",
+    "attraction_longitude": "-124.0828395",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "arcata",
+    "mention_address": "Arcata, Humboldt County, California, United States of America",
+    "youTubeLinkIds": "PcUX3lZ6gqo,KQM3IjS0mcM,BaYNR2xmcps",
+    "mention_popularity": "5",
+    "mention_longitude": "-124.0828395",
+    "attraction_in": "Arcata",
+    "no_of_blogFiles": "43",
+    "comment": "Arcata, CaliforniaArcata (Hupa: do'-khah-oon-tetl ding', meaning \"big flat place\") originally Union Town or Union, is a city adjacent to the Arcata Bay (northern) portion of Humboldt Bay in Humboldt County, California, United States. At the 2010 census, Arcata's population was 17,231. Arcata, located 280 miles (450 km) north of San Francisco (via Highway 101), is home to Humboldt State University. Arcata is also the location of the Arcata Field Office of the Federal Bureau of Land Management, which is responsible for the administration of natural resources, lands, and mineral programs, including the Headwaters Forest, on approximately 200,000 acres of public land in Northwestern California."
+}

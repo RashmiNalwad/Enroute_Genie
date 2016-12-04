@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://media.poyint.com/wp-content/uploads/2016/11/08194011/Azusa_City_Hall.jpg",
+        "http://tours42plus.com/Assets/Uploaded-CMS-Files/Azusa-62eace68-84c4-413d-94f6-e32e94df9875.jpg",
+        "http://files.books.ru/pic/3420001-3421000/3420541/preview_3558756_150x0.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Azusa,_California",
+    "attraction_in_file": "azusa.json",
+    "label": "Azusa, California",
+    "mention_found_in_blogFiles": "avalon_and_pasadena.json,bakersfield_and_berkeley.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_san jose.json,bakersfield_and_santa monica.json,berkeley_and_malibu.json,long beach_and_san bernardino.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,san bernardino_and_santa monica.json,san jose_and_santa monica.json",
+    "mention_type": "city",
+    "attraction_latitude": "34.1338751",
+    "abstract": "Azusa is a city in the San Gabriel Valley, at the foot of the San Gabriel Mountains in Los Angeles County, California, United States. The A on the San Gabriel Mountains represents the city of Azusa, and can be seen within a 30-mile radius. The population was 46,361 at the 2010 census, up from 44,712 at the 2000 census. Azusa is one of the pass through cities for the historical Route 66 on Foothill Boulevard and Alosta Avenue.",
+    "mention_latitude": "34.1338751",
+    "attraction_longitude": "-117.9056045",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "azusa",
+    "mention_address": "Azusa, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "oQiHk-FNXFU,ojIKarxqYHI,tsd_8cTqo-s",
+    "mention_popularity": "4",
+    "mention_longitude": "-117.9056045",
+    "attraction_in": "Azusa",
+    "no_of_blogFiles": "13",
+    "comment": "Azusa is a city in the San Gabriel Valley, at the foot of the San Gabriel Mountains in Los Angeles County, California, United States.The A on the San Gabriel Mountains represents the city of Azusa, and can be seen within a 30-mile radius. The population was 46,361 at the 2010 census, up from 44,712 at the 2000 census. Azusa is one of the pass through cities for the historical Route 66 on Foothill Boulevard and Alosta Avenue."
+}

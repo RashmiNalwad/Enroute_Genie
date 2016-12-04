@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://triaxialdevelopment.com/wp-content/uploads/2009/10/PA143178.JPG",
+        "http://c767204.r4.cf2.rackcdn.com/b07bda8a-5108-4b91-ba57-07e86cae70ad.jpg",
+        "http://sandiegan.com/wp-content/uploads/2014/01/lead.centex.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Menifee,_California",
+    "attraction_in_file": "menifee.json",
+    "label": "Menifee, California",
+    "mention_found_in_blogFiles": "carlsbad_and_san bernardino.json,fresno_and_irvine.json,irvine_and_oakland.json,irvine_and_san diego.json,san bernardino_and_temecula.json,santa barbara_and_temecula.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.6864432",
+    "abstract": "Menifee, California is a city in southwestern Riverside County, California, United States and part of the Los Angeles Combined Statistical Area. Located nearly 8 miles (13 km) north of Murrieta, the city is roughly 50 square miles (100 km2) in size. It had a population of about 77,519 at the 2010 United States Census, and is anticipated to reach 100,000 by 2020.[citation needed] The incorporated City of Menifee includes the communities of Menifee, Sun City, Quail Valley, Paloma Valley and portions of Romoland.",
+    "mention_latitude": "33.6864432",
+    "attraction_longitude": "-117.1770436",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "menifee",
+    "mention_address": "Menifee, Sun City, Riverside County, California, United States of America",
+    "youTubeLinkIds": "h-IRq2snLhI,pHbFynP15Q4,s3Bik1zrQ-M",
+    "mention_popularity": "6",
+    "mention_longitude": "-117.1770436",
+    "attraction_in": "Menifee",
+    "no_of_blogFiles": "7",
+    "comment": "Menifee, California is a city in southwestern Riverside County, California, United States and part of the Los Angeles Combined Statistical Area. Located nearly 8 miles (13 km) north of Murrieta, the city is roughly 50 square miles (100 km2) in size. It had a population of about 77,519 at the 2010 United States Census, and is anticipated to reach 100,000 by 2020.[citation needed] The incorporated City of Menifee includes the communities of Menifee, Sun City, Quail Valley, Paloma Valley and portions of Romoland."
+}

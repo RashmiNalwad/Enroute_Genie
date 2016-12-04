@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://news.theregistrysf.com/wp-content/uploads/2013/01/Tracy-California-The-Registry-real-estate.jpg",
+        "http://www.bestplaces.net/images/city/0680238_ca_tracy.png",
+        "http://ihg.scene7.com/is/image/ihg/holiday-inn-express-and-suites-tracy-2532284309-4x3"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Tracy,_California",
+    "attraction_in_file": "tracy.json",
+    "label": "Tracy, California",
+    "mention_found_in_blogFiles": "fremont_and_santa barbara.json,malibu_and_stockton.json,sacramento_and_san luis obispo.json,san bernardino_and_san luis obispo.json,sacramento_and_san bernardino.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.7396513",
+    "abstract": "Tracy is the second most populated city in San Joaquin County, California, United States. The population was 82,922 at the 2010 census. Tracy is located inside a geographic triangle formed by Interstate 205 on the north side of the city, Interstate 5 to the east, and Interstate 580 to the southwest; this has given rise to Tracy's motto, now recorded on the city's website: \"Think Inside the Triangle\".",
+    "mention_latitude": "37.7396513",
+    "attraction_longitude": "-121.4252226",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "tracy",
+    "mention_address": "Tracy, San Joaquin County, California, United States of America",
+    "youTubeLinkIds": "ljCTqeseAF8,s-PR2cud6FM,3Q-LVZaVfWg",
+    "mention_popularity": "2",
+    "mention_longitude": "-121.4252226",
+    "attraction_in": "Tracy",
+    "no_of_blogFiles": "5",
+    "comment": "Tracy is the second most populated city in San Joaquin County, California, United States. The population was 82,922 at the 2010 census. Tracy is located inside a geographic triangle formed by Interstate 205 on the north side of the city, Interstate 5 to the east, and Interstate 580 to the southwest; this has given rise to Tracy's motto, now recorded on the city's website: \"Think Inside the Triangle\"."
+}

@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://cashmancuneo.net/biomes/calcentral/pict/Merced.JPG",
+        "https://images.trvl-media.com/hotels/1000000/40000/34800/34725/34725_164_z.jpg",
+        "http://www.ppp-news.com/wp-content/uploads/2016/02/412.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Merced,_California",
+    "attraction_in_file": "merced.json",
+    "label": "Merced, California",
+    "mention_found_in_blogFiles": "anaheim_and_fresno.json,avalon_and_mammoth lakes.json,bakersfield_and_fresno.json,bakersfield_and_mammoth lakes.json,bakersfield_and_stockton.json,berkeley_and_mammoth lakes.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_mammoth lakes.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_stockton.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,long beach_and_sacramento.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_sacramento.json,monterey_and_stockton.json,napa_and_san diego.json,mammoth lakes_and_pismo beach.json,napa_and_temecula.json,oakland_and_san diego.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_temecula.json,san diego_and_san jose.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,irvine_and_stockton.json,san jose_and_temecula.json,santa clarita_and_stockton.json,santa monica_and_stockton.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.3029568",
+    "abstract": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby. Merced, known as the \"Gateway to Yosemite,\" is less than two hours by automobile from Yosemite National Park to the east and Monterey Bay, the Pacific Ocean, and several beaches to the west. The community is served by the rail passenger service Amtrak, a major airline through Merced Regional Airport, and three bus lines. It is approximately 110 miles (180 km) from Sacramento, 130 miles (210 km) from San Francisco, 45 miles (72 km) from Fresno, and 270 miles (430 km) from Los Angeles. In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
+    "mention_latitude": "37.3029568",
+    "attraction_longitude": "-120.4843268",
+    "type": "http://dbpedia.org/resource/Charter_city",
+    "mention_name": "merced",
+    "mention_address": "Merced, Merced County, California, United States of America",
+    "youTubeLinkIds": "K7vWFLgSSF0,2xgde7YWHU0,l4ZmEAnKNRc",
+    "mention_popularity": "16",
+    "mention_longitude": "-120.4843268",
+    "attraction_in": "Merced",
+    "no_of_blogFiles": "62",
+    "comment": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby.In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century."
+}

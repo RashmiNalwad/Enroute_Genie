@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://skinsanity.files.wordpress.com/2012/04/shasta.jpg",
+        "http://s.w-x.co/mount-shasta-usgs-1984.jpg",
+        "https://readtiger.com/img/wkp/en/Shasta_from_south.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Mount_Shasta,_California",
+    "attraction_in_file": "mount_shasta.json",
+    "label": "Mount Shasta, California",
+    "mention_found_in_blogFiles": "anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_stockton.json,beverly hills_and_sacramento.json,big bear lake_and_oakland.json,big bear lake_and_san jose.json,big bear lake_and_santa cruz.json,long beach_and_oakland.json,oakland_and_san bernardino.json,pasadena_and_sacramento.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,santa barbara_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "41.3098746",
+    "abstract": "Mount Shasta is a city in Siskiyou County, California, at about 3,600 feet (1,100 m) above sea level on the flanks of Mount Shasta, a prominent northern California landmark. The city is less than 9 miles (14 km) southwest of the summit of its namesake volcano. As of the 2010 Census the city had a population of 3,394, down from 3,624 at the 2000 census.",
+    "mention_latitude": "41.3098746",
+    "attraction_longitude": "-122.3105665",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "mount shasta",
+    "mention_address": "Mount Shasta, Siskiyou County, California, United States of America",
+    "youTubeLinkIds": "fIV-FfvjvTQ,P7SRtvN-ovU,6svne7Ah-xM",
+    "mention_popularity": "5",
+    "mention_longitude": "-122.3105665",
+    "attraction_in": "Mount Shasta",
+    "no_of_blogFiles": "13",
+    "comment": "Mount Shasta is a city in Siskiyou County, California, at about 3,600 feet (1,100 m) above sea level on the flanks of Mount Shasta, a prominent northern California landmark. The city is less than 9 miles (14 km) southwest of the summit of its namesake volcano. As of the 2010 Census the city had a population of 3,394, down from 3,624 at the 2000 census."
+}

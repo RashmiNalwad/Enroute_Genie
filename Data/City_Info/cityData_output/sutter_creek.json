@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.suttercreekinn.com/090508/2006%20sutter%20creek%20740x554.jpg",
+        "http://www.westernmininghistory.com/images/town_gallery/California-Sutter-Creek-2e209e82ff.jpg",
+        "http://static.panoramio.com/photos/original/87967309.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Sutter_Creek,_California",
+    "attraction_in_file": "sutter_creek.json",
+    "label": "Sutter Creek, California",
+    "mention_found_in_blogFiles": "fresno_and_sacramento.json,mammoth lakes_and_monterey.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,sacramento_and_sausalito.json,sacramento_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.3929675",
+    "abstract": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49.",
+    "mention_latitude": "38.3929675",
+    "attraction_longitude": "-120.8024356",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "sutter creek",
+    "mention_address": "Sutter Creek, Amador County, California, United States of America",
+    "youTubeLinkIds": "NdYh0v4HvX8,O-QdlPgNXgo,cWizhGJmTCI",
+    "mention_popularity": "4",
+    "mention_longitude": "-120.8024356",
+    "attraction_in": "Sutter Creek",
+    "no_of_blogFiles": "11",
+    "comment": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49."
+}

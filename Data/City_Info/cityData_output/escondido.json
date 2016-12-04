@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://readtiger.com/img/wkp/en/Grand01.jpg",
+        "http://goista.com/wp-content/uploads/2015/03/Escondido-The-Oldest-City-in-San-Diego-County.jpg",
+        "https://readtiger.com/img/wkp/en/Lake_Dixon_Escondido_CA.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Escondido,_California",
+    "attraction_in_file": "escondido.json",
+    "label": "Escondido, California",
+    "mention_found_in_blogFiles": "anaheim_and_carlsbad.json,anaheim_and_san francisco.json,anaheim_and_temecula.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_san bernardino.json,avalon_and_san diego.json,bakersfield_and_huntington beach.json,beverly hills_and_carlsbad.json,avalon_and_temecula.json,bakersfield_and_malibu.json,bakersfield_and_temecula.json,berkeley_and_carlsbad.json,beverly hills_and_fresno.json,beverly hills_and_temecula.json,big bear lake_and_santa clarita.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_napa.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_san bernardino.json,carlsbad_and_santa monica.json,carlsbad_and_temecula.json,carlsbad_and_los angeles.json,irvine_and_temecula.json,long beach_and_temecula.json,long beach_and_malibu.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pismo beach.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_temecula.json,malibu_and_santa clarita.json,riverside_and_san diego.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_temecula.json,san diego_and_temecula.json,san francisco_and_temecula.json,santa clarita_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.1216751",
+    "abstract": "Escondido (/\u02cc\u025bsk\u0259n\u02c8di\u02d0do\u028a/ ES-k\u0259n-DEE-doh) is a city located in San Diego County's North County region, 30 miles (48 km) northeast of Downtown San Diego, California. The city occupies a shallow valley ringed by rocky hills. Incorporated in 1888, it is one of the oldest cities in San Diego County. The city had a population of 143,911 at the 2010 census. Its municipal government set itself an operating budget limit of $426,289,048 for the fiscal year 2010\u20132011. The city is known as Eskondiid in Diegue\u00f1o.",
+    "mention_latitude": "33.1216751",
+    "attraction_longitude": "-117.0814848",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "escondido",
+    "mention_address": "Escondido, San Diego County, California, United States of America",
+    "youTubeLinkIds": "TsJVRnRyTIM,7T5LIxB_E1E,GQEN85_jMvU",
+    "mention_popularity": "21",
+    "mention_longitude": "-117.0814848",
+    "attraction_in": "Escondido",
+    "no_of_blogFiles": "50",
+    "comment": "Escondido (/\u02cc\u025bsk\u0259n\u02c8di\u02d0do\u028a/ ES-k\u0259n-DEE-doh) is a city located in San Diego County's North County region, 30 miles (48 km) northeast of Downtown San Diego, California. The city occupies a shallow valley ringed by rocky hills. Incorporated in 1888, it is one of the oldest cities in San Diego County. The city had a population of 143,911 at the 2010 census. Its municipal government set itself an operating budget limit of $426,289,048 for the fiscal year 2010\u20132011. The city is known as Eskondiid in Diegue\u00f1o."
+}

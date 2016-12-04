@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.forwardlook.net/forums/forums/get-attachment.asp?action=view&attachmentid=79887",
+        "https://a4-images.myspacecdn.com/images03/35/4a6a438c0032472b87d7a4feea4f91af/600x600.jpg",
+        "http://a.mktgcdn.com/p/nV5GcJlQjPEaXZhi3wL4rHDFHl1DnP1RHvvY7XqNimE/1024x680.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Norwalk,_California",
+    "attraction_in_file": "norwalk.json",
+    "label": "Norwalk, California",
+    "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_los angeles.json,anaheim_and_stockton.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_oakland.json,beverly hills_and_huntington beach.json,beverly hills_and_long beach.json,beverly hills_and_santa ana.json,fresno_and_san bernardino.json,irvine_and_los angeles.json,long beach_and_oakland.json,los angeles_and_oakland.json,los angeles_and_stockton.json,napa_and_santa monica.json,oakland_and_san bernardino.json,pasadena_and_santa monica.json,sacramento_and_san diego.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.9092802",
+    "abstract": "Norwalk is a suburban city in Los Angeles County, California, United States. The population is estimated to be 107,096 as of 2014. It is the 58th most population dense city in California. Founded in the late 19th century, Norwalk was incorporated as a city in 1957. It is located 17 miles (27 km) southeast of downtown Los Angeles and is part of the Greater Los Angeles area. Norwalk is a member of the Gateway Cities Council of Governments. Norwalk's sister cities are Morelia, Michoac\u00e1n, and Hermosillo, Sonora, in Mexico.",
+    "mention_latitude": "33.9092802",
+    "attraction_longitude": "-118.0849168",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "norwalk",
+    "mention_address": "Norwalk, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "j7pg0etujxQ,PJr4CmVWO0c",
+    "mention_popularity": "6",
+    "mention_longitude": "-118.0849168",
+    "attraction_in": "Norwalk",
+    "no_of_blogFiles": "18",
+    "comment": "Norwalk is a suburban city in Los Angeles County, California, United States. The population is estimated to be 107,096 as of 2014. It is the 58th most population dense city in California.Founded in the late 19th century, Norwalk was incorporated as a city in 1957. It is located 17 miles (27 km) southeast of downtown Los Angeles and is part of the Greater Los Angeles area.Norwalk is a member of the Gateway Cities Council of Governments. Norwalk's sister cities are Morelia, Michoac\u00e1n, and Hermosillo, Sonora, in Mexico."
+}

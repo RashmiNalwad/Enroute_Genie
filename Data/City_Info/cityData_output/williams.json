@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://a1-images.myspacecdn.com/images03/35/1fae86d48c0e4de188a0937d88018828/600x600.jpg",
+        "https://readtiger.com/img/wkp/en/Entrance_arch_to_Williams,_California.jpg",
+        "http://s3.amazonaws.com/i1338443035/1b2f819b811c4af063e1746a843b0e37_1401235141_l.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Williams,_California",
+    "attraction_in_file": "williams.json",
+    "label": "Williams, California",
+    "mention_found_in_blogFiles": "anaheim_and_santa cruz.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,fresno_and_san bernardino.json,fresno_and_san francisco.json,fresno_and_sausalito.json,los angeles_and_napa.json,monterey_and_temecula.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa cruz.json,oakland_and_santa barbara.json,pasadena_and_san francisco.json,sacramento_and_santa cruz.json,san bernardino_and_san francisco.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json",
+    "mention_type": "city",
+    "attraction_latitude": "39.1546137",
+    "abstract": "Williams (formerly, Central) is a city in Colusa County, California, United States. The population was 5,123 at the 2010 census, up from 3,670 at the 2000 census.",
+    "mention_latitude": "39.1546137",
+    "attraction_longitude": "-122.1494186",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "williams",
+    "mention_address": "Williams, Colusa County, California, United States of America",
+    "youTubeLinkIds": "zqbpdsPZyBc,CVCqiPnP5KI,hzplkXVRnrg",
+    "mention_popularity": "4",
+    "mention_longitude": "-122.1494186",
+    "attraction_in": "Williams",
+    "no_of_blogFiles": "24",
+    "comment": "Williams (formerly, Central) is a city in Colusa County, California, United States. The population was 5,123 at the 2010 census, up from 3,670 at the 2000 census."
+}

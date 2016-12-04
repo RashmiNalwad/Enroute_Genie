@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dublin%2CCAPublicLibrary11-26-04.jpg",
+        "http://www.cooneelee.com/img/hotel/19469322/1/La-Quinta-Inn-&-Suites-Dublin---Pleasanton-Hotel-information-12.jpg",
+        "http://athomeinpleasantonca.com/wp-content/uploads/2011/04/Dublin-CA-w.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Dublin,_California",
+    "attraction_in_file": "dublin.json",
+    "label": "Dublin, California",
+    "mention_found_in_blogFiles": "bakersfield_and_monterey.json,bakersfield_and_santa cruz.json,berkeley_and_fremont.json,beverly hills_and_oakland.json,beverly hills_and_san francisco.json,carlsbad_and_santa cruz.json,fremont_and_long beach.json,fremont_and_oakland.json,fremont_and_san bernardino.json,fremont_and_santa clarita.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,los angeles_and_stockton.json,malibu_and_san francisco.json,monterey_and_santa barbara.json,los angeles_and_santa cruz.json,monterey_and_santa monica.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_santa clarita.json,san diego_and_san jose.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san jose_and_santa monica.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.7021521",
+    "abstract": "Dublin (formerly, Amador and Dougherty's Station) is a suburban city of the East (San Francisco) Bay region of Alameda County, California, United States. Located along the north side of Interstate 580 at the intersection with Interstate 680, roughly 10 miles (16 km) east of Hayward, 6 miles (9.7 km) west of Livermore, directly north of Pleasanton, and 35 miles (56 km) north of San Jose, it was named after the city of Dublin in Ireland.[citation needed] The nearest major city is Oakland, approximately 25 miles (40 km) to the west-northwest on Interstate 580. Dublin is the second fastest-growing city in the state of California, behind only Santa Clarita. The population was 46,063 (2010 census), and the 2013 estimate at 49,890. It is forecast that by 2030, the population will grow to about 75,900.[citation needed] Dublin is home to the headquarters of Sybase, Inc, now part of SAP SE, Tria Beauty, Medley Health and Arlen Ness.",
+    "mention_latitude": "37.7021521",
+    "attraction_longitude": "-121.9357917",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "dublin",
+    "mention_address": "Dublin, Alameda County, California, United States of America",
+    "youTubeLinkIds": "RFDTyam_Ijc,3iRh8dKu99A,DiRLZUCpdbg",
+    "mention_popularity": "10",
+    "mention_longitude": "-121.9357917",
+    "attraction_in": "Dublin",
+    "no_of_blogFiles": "32",
+    "comment": "Dublin (formerly, Amador and Dougherty's Station) is a suburban city of the East (San Francisco) Bay region of Alameda County, California, United States. Located along the north side of Interstate 580 at the intersection with Interstate 680, roughly 10 miles (16 km) east of Hayward, 6 miles (9.7 km) west of Livermore, directly north of Pleasanton, and 35 miles (56 km) north of San Jose, it was named after the city of Dublin in Ireland.[citation needed] The nearest major city is Oakland, approximately 25 miles (40 km) to the west-northwest on Interstate 580. Dublin is the second fastest-growing city in the state of California, behind only Santa Clarita. The population was 46,063 (2010 census), and the 2013 estimate at 49,890. It is forecast that by 2030, the population will grow to about 75"
+}

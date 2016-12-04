@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://photos.aroundcarson.com/ac200709031002887-m.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Willits_Mendocino_County_Northern_California_8285659895_o.jpg/250px-Willits_Mendocino_County_Northern_California_8285659895_o.jpg",
+        "https://prv2.lori-images.net/znak-goroda-willits-kaliforniya-ssha-0024243578-preview.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Willits,_California",
+    "attraction_in_file": "willits.json",
+    "label": "Willits, California",
+    "mention_found_in_blogFiles": "fresno_and_sausalito.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,san jose_and_santa monica.json",
+    "mention_type": "city",
+    "attraction_latitude": "39.4096043",
+    "abstract": "Willits (formerly, Little Lake and Willitsville) is a city in Mendocino County, California, United States. Willits is located 20 miles (32 km) north-northwest of Ukiah, at an elevation of 1391 feet (424 m). The population was 4,888 at the 2010 census, down from 5,073 at the 2000 census. Willits is at the center of Mendocino County and at the beginning of the county's extensive redwood forests as approached by Highway 101 from the south. An arch donated to the city by Reno, Nevada in 1995 stands in the center of town and displays Willits' slogans \"Heart of Mendocino County\" and \"Gateway to the Redwoods.\" The Sherwood Valley Rancheria of Pomo Indians of California is headquartered in Willits.",
+    "mention_latitude": "39.4096043",
+    "attraction_longitude": "-123.3555601",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "willits",
+    "mention_address": "Willits, Mendocino County, California, United States of America",
+    "youTubeLinkIds": "EPb9Fr63rBU,N7G6_zafzYU,jynasJ57nFs",
+    "mention_popularity": "3",
+    "mention_longitude": "-123.3555601",
+    "attraction_in": "Willits",
+    "no_of_blogFiles": "4",
+    "comment": "Willits (formerly, Little Lake and Willitsville) is a city in Mendocino County, California, United States. Willits is located 20 miles (32 km) north-northwest of Ukiah, at an elevation of 1391 feet (424 m). The population was 4,888 at the 2010 census, down from 5,073 at the 2000 census. Willits is at the center of Mendocino County and at the beginning of the county's extensive redwood forests as approached by Highway 101 from the south. An arch donated to the city by Reno, Nevada in 1995 stands in the center of town and displays Willits' slogans \"Heart of Mendocino County\" and \"Gateway to the Redwoods.\" The Sherwood Valley Rancheria of Pomo Indians of California is headquartered in Willits."
+}

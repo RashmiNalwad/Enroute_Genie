@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://pics4.city-data.com/cpicv/vfiles2899.jpg",
+        "http://media-cache-ak0.pinimg.com/originals/03/a7/f3/03a7f3ed89bdc94961893068cb711bda.jpg",
+        "http://images2.mygola.com/446f19081a7723190abb8977a1b79753_1394406363_l.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Ridgecrest,_California",
+    "attraction_in_file": "ridgecrest.json",
+    "label": "Ridgecrest, California",
+    "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,avalon_and_bakersfield.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_san jose.json,bakersfield_and_temecula.json,beverly hills_and_mammoth lakes.json,carlsbad_and_fresno.json,carlsbad_and_mammoth lakes.json,fremont_and_mammoth lakes.json,fremont_and_pasadena.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,riverside_and_sacramento.json",
+    "mention_type": "city",
+    "attraction_latitude": "35.6225064",
+    "abstract": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963. Ridgecrest is surrounded by four mountain ranges; the Sierra Nevada on the west, the Cosos on the north, the Argus Range on the east, and the El Paso Mountains on the south. It is approximately 82 miles (132 km) from the Lancaster/Palmdale area and approximately 145 miles (233 km) from both Bakersfield and San Bernardino, the three nearest major urban centers. Private air travel in and out of the city is provided through the Inyokern Airport. There are currently no scheduled commercial flights in or out of Ridgecrest. Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S.",
+    "mention_latitude": "35.6225064",
+    "attraction_longitude": "-117.6699413",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "ridgecrest",
+    "mention_address": "Ridgecrest, Kern County, California, United States of America",
+    "youTubeLinkIds": "dSExeOf0Ajw,nf--RXS68Mg,v47m9jQ57nc",
+    "mention_popularity": "10",
+    "mention_longitude": "-117.6699413",
+    "attraction_in": "Ridgecrest",
+    "no_of_blogFiles": "35",
+    "comment": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963.Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S."
+}

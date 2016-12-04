@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://gotravelaz.com/wp-content/uploads/images/Montclair_19713.jpg",
+        "https://images.our-assets.com/fullcover/2000x/9786136817743.jpg",
+        "http://cdn.rentcafe.com/dmslivecafe/3/446598/3_446598_2002750.jpg?crop=(0,25,300,200)&cropxunits=300&cropyunits=200&"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Montclair,_California",
+    "attraction_in_file": "montclair.json",
+    "label": "Montclair, California",
+    "mention_found_in_blogFiles": "avalon_and_oakland.json,beverly hills_and_oakland.json,big bear lake_and_santa ana.json,big bear lake_and_santa clarita.json,fresno_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,riverside_and_santa monica.json,san bernardino_and_santa monica.json,san bernardino_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "34.0775104",
+    "abstract": "Montclair is a city in the Pomona Valley, in southwestern San Bernardino County, California. The population was 36,664 in the 2010 United States Census.",
+    "mention_latitude": "34.0775104",
+    "attraction_longitude": "-117.6897775",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "montclair",
+    "mention_address": "Montclair, San Bernardino County, California, United States of America",
+    "youTubeLinkIds": "BOLiwhPeuX8,mOmlskl9N68,C3Bi2-P6ex0",
+    "mention_popularity": "8",
+    "mention_longitude": "-117.6897775",
+    "attraction_in": "Montclair",
+    "no_of_blogFiles": "10",
+    "comment": "Montclair is a city in the Pomona Valley, in southwestern San Bernardino County, California. The population was 36,664 in the 2010 United States Census."
+}

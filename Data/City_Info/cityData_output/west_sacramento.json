@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://photos.wikimapia.org/p/00/04/23/37/28_big.jpg",
+        "https://www.stadia.cc/wp-content/uploads/2015/09/Sacramento_Skyline.jpg",
+        "http://img.bestplaces.net/images/city/0684816_CA_West_Sacramento.png"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/West_Sacramento,_California",
+    "attraction_in_file": "west_sacramento.json",
+    "label": "West Sacramento, California",
+    "mention_found_in_blogFiles": "avalon_and_sacramento.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_sacramento.json,berkeley_and_stockton.json,fremont_and_sacramento.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,napa_and_sacramento.json,napa_and_stockton.json,oakland_and_sacramento.json,oakland_and_stockton.json,riverside_and_sacramento.json,sacramento_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.5804609",
+    "abstract": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers. The United States Conference of Mayors named West Sacramento as the Most Livable City in America in 2014 in the category of cities with fewer than 100,000 residents. West Sacramento is part of the Sacramento\u2013Arden Arcade\u2013Roseville Metropolitan Statistical Area which has a population (2000) of approximately 1,796,857. Major industries to the region include agriculture, government, and transportation.",
+    "mention_latitude": "38.5804609",
+    "attraction_longitude": "-121.5302339",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "west sacramento",
+    "mention_address": "West Sacramento, Yolo County, California, United States of America",
+    "youTubeLinkIds": "Yepamxpm8vU,_ICrAbFhPT4,IAdheXqxWk0",
+    "mention_popularity": "9",
+    "mention_longitude": "-121.5302339",
+    "attraction_in": "West Sacramento",
+    "no_of_blogFiles": "20",
+    "comment": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers."
+}

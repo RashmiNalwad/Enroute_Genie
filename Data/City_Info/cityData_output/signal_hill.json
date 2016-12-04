@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/Signal_Hill_California_Panorama.jpg",
+        "http://25.media.tumblr.com/tumblr_m2oktbs8O21qcr6iqo1_1280.jpg",
+        "http://www.aroundaboutcars.com/blog/wp-content/uploads/2015/12/27941805.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Signal_Hill,_California",
+    "attraction_in_file": "signal_hill.json",
+    "label": "Signal Hill, California",
+    "mention_found_in_blogFiles": "malibu_and_pasadena.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.8043856",
+    "abstract": "Signal Hill is a city (2.2 mi\u00b2, 5.7 km\u00b2) atop a hill in California located in the Greater Los Angeles area. An enclave completely surrounded by the city of Long Beach, Signal Hill was incorporated on April 22, 1924, roughly three years after oil was discovered there. As of the 2010 census, the city population was 11,465. Signal Hill lies in the 562 area code. The city once shared three different postal ZIP codes with the city of Long Beach but in July 2002, the city of Signal Hill received its own ZIP code, 90755.",
+    "mention_latitude": "33.8043856",
+    "attraction_longitude": "-118.1676041",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "signal hill",
+    "mention_address": "Signal Hill, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "tsXACMdwgA8,vLYyxmZl1hw,CAPWkeqDswA",
+    "mention_popularity": "1",
+    "mention_longitude": "-118.1676041",
+    "attraction_in": "Signal Hill",
+    "no_of_blogFiles": "1",
+    "comment": "Signal Hill is a city (2.2 mi\u00b2, 5.7 km\u00b2) atop a hill in California located in the Greater Los Angeles area. An enclave completely surrounded by the city of Long Beach, Signal Hill was incorporated on April 22, 1924, roughly three years after oil was discovered there. As of the 2010 census, the city population was 11,465.Signal Hill lies in the 562 area code. The city once shared three different postal ZIP codes with the city of Long Beach but in July 2002, the city of Signal Hill received its own ZIP code, 90755."
+}

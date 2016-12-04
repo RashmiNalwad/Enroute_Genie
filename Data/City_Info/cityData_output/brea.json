@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://cdn0.vox-cdn.com/thumbor/hwFxa7Kz97mYsj2lHka5M8iP8s8=/0x27:500x308/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/48375359/2006-07-brea.0.jpg",
+        "https://www.statscamp.org/wp-content/uploads/2016/07/es_mountains_15_712x342_FitToBoxSmallDimension_Center.jpg?x28989",
+        "https://upload.wikimedia.org/wikipedia/en/e/ec/Brea%2C_California_%28city_seal%29.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Brea,_California",
+    "attraction_in_file": "brea.json",
+    "label": "Brea, California",
+    "mention_found_in_blogFiles": "anaheim_and_irvine.json,anaheim_and_long beach.json,anaheim_and_riverside.json,bakersfield_and_newport beach.json,big bear lake_and_santa clarita.json,carlsbad_and_san bernardino.json,fremont_and_newport beach.json,fresno_and_santa ana.json,huntington beach_and_los angeles.json,huntington beach_and_oakland.json,huntington beach_and_santa clarita.json,irvine_and_long beach.json,long beach_and_riverside.json,long beach_and_san bernardino.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,newport beach_and_oakland.json,newport beach_and_riverside.json,oakland_and_riverside.json,oakland_and_santa ana.json,pasadena_and_sacramento.json,riverside_and_santa ana.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.9170444",
+    "abstract": "Brea is a city in Orange County, California. The population as of the 2010 census was 39,282. The city began as a center of crude oil production, was later propelled by citrus production, and is now an important retail center because of the large Brea Mall and the recently redeveloped Brea Downtown. Brea is also known for its extensive public art program which began in 1975 and continues today with over 140 artworks in the collection placed and located throughout the city. Brea's public art program has been used as a model and inspiration for many public art programs across the U.S.",
+    "mention_latitude": "33.9170444",
+    "attraction_longitude": "-117.8888556",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "brea",
+    "mention_address": "Brea, Orange County, California, United States of America",
+    "youTubeLinkIds": "jtrF479Dzj4,OJRp4ioyvc4,dcuMxJea7BM",
+    "mention_popularity": "10",
+    "mention_longitude": "-117.8888556",
+    "attraction_in": "Brea",
+    "no_of_blogFiles": "23",
+    "comment": "Brea is a city in Orange County, California. The population as of the 2010 census was 39,282.The city began as a center of crude oil production, was later propelled by citrus production, and is now an important retail center because of the large Brea Mall and the recently redeveloped Brea Downtown. Brea is also known for its extensive public art program which began in 1975 and continues today with over 140 artworks in the collection placed and located throughout the city. Brea's public art program has been used as a model and inspiration for many public art programs across the U.S."
+}

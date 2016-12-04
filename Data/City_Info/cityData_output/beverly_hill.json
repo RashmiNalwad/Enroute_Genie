@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://4.bp.blogspot.com/-Y-jzCBLyKwc/Vfg0INSSv4I/AAAAAAABV6c/TXBHSjvQI0I/s640/2015-09-15_18-05-36.jpg",
+        "https://img2.goodfon.ru/original/2560x1600/8/3b/beverly-hills-shop-road.jpg",
+        "http://ujf.org.ua/wp-content/uploads/2013/04/USA_010413_4.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Beverly_Hills,_California",
+    "attraction_in_file": "beverly_hills.json",
+    "label": "Beverly Hills, California",
+    "mention_found_in_blogFiles": "avalon_and_beverly hills.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,bakersfield_and_beverly hills.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_irvine.json,beverly hills_and_malibu.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_pasadena.json,beverly hills_and_santa ana.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,long beach_and_pasadena.json,long beach_and_malibu.json,pasadena_and_santa monica.json",
+    "mention_type": "city",
+    "attraction_latitude": "34.0736204",
+    "abstract": "Beverly Hills is a city in Los Angeles County, California, United States, surrounded by the cities of Los Angeles and West Hollywood. Originally a Spanish ranch where lima beans were grown, Beverly Hills was incorporated in 1914 by a group of investors who had failed to find oil, but found water instead and eventually decided to develop it into a town. By 2013, its population had grown to 34,658. Sometimes referred to as \"90210\", one of its primary ZIP codes, it is home to many actors and celebrities. The city includes the Rodeo Drive shopping district and the Beverly Hills Oil Field.",
+    "mention_latitude": "34.0736204",
+    "attraction_longitude": "-118.4003562",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "beverly hill",
+    "mention_address": "Beverly Hills, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "xo1ydCntmOs,cielCwd83x8,bTvr_2v-0HI",
+    "mention_popularity": "2",
+    "mention_longitude": "-118.4003562",
+    "attraction_in": "Beverly Hills",
+    "no_of_blogFiles": "18",
+    "comment": "Beverly Hills is a city in Los Angeles County, California, United States, surrounded by the cities of Los Angeles and West Hollywood. Originally a Spanish ranch where lima beans were grown, Beverly Hills was incorporated in 1914 by a group of investors who had failed to find oil, but found water instead and eventually decided to develop it into a town. By 2013, its population had grown to 34,658. Sometimes referred to as \"90210\", one of its primary ZIP codes, it is home to many actors and celebrities. The city includes the Rodeo Drive shopping district and the Beverly Hills Oil Field."
+}

@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.mountainviewlocksmithservice.com/images/mountain-view-ca.jpg",
+        "https://readtiger.com/img/wkp/en/Mountainviewcentennialplaza.jpg",
+        "https://thumbs.dreamstime.com/z/california-mountain-view-18045228.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Mountain_View,_California",
+    "attraction_in_file": "mountain_view.json",
+    "label": "Mountain View, California",
+    "mention_found_in_blogFiles": "avalon_and_monterey.json,berkeley_and_san jose.json,berkeley_and_sacramento.json,berkeley_and_fremont.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,los angeles_and_sausalito.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,oakland_and_sacramento.json,oakland_and_stockton.json,san diego_and_sausalito.json,san francisco_and_santa clarita.json,sacramento_and_san francisco.json,san luis obispo_and_santa cruz.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.3855745",
+    "abstract": "Mountain View is a city located in Northern California's Bay Area. It is named for its views of the Santa Cruz Mountains. From its origins as a stagecoach stop, it grew to a large suburb with a pedestrian-friendly downtown, free wi-fi, and a population of 74,066. The city borders Palo Alto and the San Francisco Bay to the north and Los Altos and Moffett Federal Airfield and Sunnyvale to the south. Situated in the southern end of the Peninsula in the Bay Area, Mountain View is home to many high technology companies. In 1956, Shockley Semiconductor Laboratory, the first company to develop silicon semiconductor devices in what came to be known as Silicon Valley, was established in the city by William Shockley. Today, many of the largest technology companies in the world are headquartered in the city, including Google, Mozilla Foundation, Symantec, and Intuit. The original Byte Shop computer store was opened at 1063 El Camino Real, Mountain View by Paul Terrell, and the first 50 Apple I computers were sold from that location. The Santa Clara Valley Transportation Authority integrates the city with the neighboring cities of Palo Alto, Los Altos, and Sunnyvale.",
+    "mention_latitude": "37.3855745",
+    "attraction_longitude": "-122.0820499",
+    "type": "http://dbpedia.org/resource/Charter_city",
+    "mention_name": "mountain view",
+    "mention_address": "Mountain View, Santa Clara County, California, United States of America",
+    "youTubeLinkIds": "9VU8q7Kg_uw,JgoInfWNvDU,LpgoeCpxU1M",
+    "mention_popularity": "13",
+    "mention_longitude": "-122.0820499",
+    "attraction_in": "Mountain View",
+    "no_of_blogFiles": "16",
+    "comment": "Mountain View is a city located in Northern California's Bay Area. It is named for its views of the Santa Cruz Mountains. From its origins as a stagecoach stop, it grew to a large suburb with a pedestrian-friendly downtown, free wi-fi, and a population of 74,066. The city borders Palo Alto and the San Francisco Bay to the north and Los Altos and Moffett Federal Airfield and Sunnyvale to the south."
+}

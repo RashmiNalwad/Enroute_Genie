@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.lalimo.com/limousine_riverside/image_limousine_riverside/moreno_valley_limousine_los_angeles.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Moreno_Valley-Kitching_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/City_of_Moreno_Valley_CA_Flag.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Moreno_Valley,_California",
+    "attraction_in_file": "moreno_valley.json",
+    "label": "Moreno Valley, California",
+    "mention_found_in_blogFiles": "bakersfield_and_huntington beach.json,avalon_and_temecula.json,bakersfield_and_long beach.json,fresno_and_san bernardino.json,irvine_and_sacramento.json,long beach_and_oakland.json,long beach_and_riverside.json,long beach_and_temecula.json,oakland_and_san bernardino.json,pasadena_and_riverside.json,riverside_and_san bernardino.json,riverside_and_santa cruz.json,san bernardino_and_temecula.json,sacramento_and_san bernardino.json,stockton_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.937517",
+    "abstract": "Moreno Valley is a city located in Riverside County, California and is part of the San Bernardino-Riverside Metropolitan Area. A relatively young city, its rapid growth from the 1980s to the early 2000s made it the second-largest city in Riverside County by population, and one of the Inland Empire's population centers. As of the 2010 census, the city's population was 193,365. The city is closely tied to Riverside, California, the county seat and largest city in the county, which neighbors Moreno Valley directly to the west. Moreno Valley is also part of the Greater Los Angeles area.",
+    "mention_latitude": "33.937517",
+    "attraction_longitude": "-117.2305943",
+    "type": "http://dbpedia.org/resource/Local_government_in_California",
+    "mention_name": "moreno valley",
+    "mention_address": "Moreno Valley, Riverside County, California, United States of America",
+    "youTubeLinkIds": "Nt_H40k7RdY,e9eam4nNGOI,wUnPoZ2u_tA",
+    "mention_popularity": "9",
+    "mention_longitude": "-117.2305943",
+    "attraction_in": "Moreno Valley",
+    "no_of_blogFiles": "15",
+    "comment": "Moreno Valley is a city located in Riverside County, California and is part of the San Bernardino-Riverside Metropolitan Area. A relatively young city, its rapid growth from the 1980s to the early 2000s made it the second-largest city in Riverside County by population, and one of the Inland Empire's population centers. As of the 2010 census, the city's population was 193,365. The city is closely tied to Riverside, California, the county seat and largest city in the county, which neighbors Moreno Valley directly to the west. Moreno Valley is also part of the Greater Los Angeles area."
+}

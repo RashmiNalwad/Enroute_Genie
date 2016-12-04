@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "https://3boyutluduvarkagidi.files.wordpress.com/2014/01/deco_15839437.jpg",
+        "https://readtiger.com/img/wkp/en/Hayward_Executive_Airport_07820.JPG",
+        "https://readtiger.com/img/wkp/ru/Csueb_view.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Hayward,_California",
+    "attraction_in_file": "hayward.json",
+    "label": "Hayward, California",
+    "mention_found_in_blogFiles": "berkeley_and_fremont.json,fremont_and_oakland.json,fresno_and_san bernardino.json,long beach_and_oakland.json,monterey_and_oakland.json,oakland_and_san bernardino.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.6688205",
+    "abstract": "Hayward (/\u02c8he\u026aw\u0259rd/; formerly, Haywards, Haywards Station, and Haywood) is a city located in Alameda County, California in the East Bay subregion of the San Francisco Bay Area. With a 2014 population of 149,392, Hayward is the sixth largest city in the Bay Area and the third largest in Alameda County. Hayward was ranked as the 37th most populous municipality in California. It is included in the San Francisco-Oakland-Fremont Metropolitan Statistical Area by the US Census. It is located primarily between Castro Valley and Union City, and lies at the eastern terminus of the San Mateo-Hayward Bridge. The city was devastated early in its history by the namesake 1868 Hayward earthquake. From the early 20th century until the beginning of the 1980s, Hayward's economy was dominated by its now defunct food canning and salt production industries.",
+    "mention_latitude": "37.6688205",
+    "attraction_longitude": "-122.0807963",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "hayward",
+    "mention_address": "Hayward, Alameda County, California, United States of America",
+    "youTubeLinkIds": "oi2o2r3Sgc0,XtRS1UEIvkE,raBQZj-R0b0",
+    "mention_popularity": "7",
+    "mention_longitude": "-122.0807963",
+    "attraction_in": "Hayward",
+    "no_of_blogFiles": "6",
+    "comment": "Hayward (/\u02c8he\u026aw\u0259rd/; formerly, Haywards, Haywards Station, and Haywood) is a city located in Alameda County, California in the East Bay subregion of the San Francisco Bay Area. With a 2014 population of 149,392, Hayward is the sixth largest city in the Bay Area and the third largest in Alameda County. Hayward was ranked as the 37th most populous municipality in California. It is included in the San Francisco-Oakland-Fremont Metropolitan Statistical Area by the US Census. It is located primarily between Castro Valley and Union City, and lies at the eastern terminus of the San Mateo-Hayward Bridge. The city was devastated early in its history by the namesake 1868 Hayward earthquake. From the early 20th century until the beginning of the 1980s, Hayward's economy was dominated by its now defun"
+}

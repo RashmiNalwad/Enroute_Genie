@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.bestplaces.net/images/city/0622790_ca_escalon.png",
+        "http://www.landsat.com/street-map/california/escalon-ca-0622790.gif",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Escalon%2CCA_Land_of_Peaches_and_Cream.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Del_Rio,_California",
+    "attraction_in_file": "escalon.json",
+    "label": "Del Rio, California",
+    "mention_found_in_blogFiles": "san jose_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "37.7544565",
+    "abstract": "Del Rio is an affluent census-designated place (CDP) in Stanislaus County, California, United States that is located around the Del Rio Country Club. The population was 1,270 at the 2010 census, up from 1,168 at the 2000 census. It is part of the Modesto Metropolitan Statistical Area. The CDP's name del r\u00edo is Spanish for \"of the river\". This area was probably formed as a collection of homes surrounding the adjacent country club on the banks of the Stanislaus River.",
+    "mention_latitude": "37.7544565",
+    "attraction_longitude": "-121.006421984267",
+    "type": "http://dbpedia.org/resource/Census-designated_place",
+    "mention_name": "escalon",
+    "mention_address": "Escalon, San Joaquin County, California, United States of America",
+    "youTubeLinkIds": "J3YTaWoy068,nbWcwRK0UsE",
+    "mention_popularity": "1",
+    "mention_longitude": "-121.006421984267",
+    "attraction_in": "Escalon",
+    "no_of_blogFiles": "1",
+    "comment": "Del Rio is an affluent census-designated place (CDP) in Stanislaus County, California, United States that is located around the Del Rio Country Club. The population was 1,270 at the 2010 census, up from 1,168 at the 2000 census. It is part of the Modesto Metropolitan Statistical Area.The CDP's name del r\u00edo is Spanish for \"of the river\". This area was probably formed as a collection of homes surrounding the adjacent country club on the banks of the Stanislaus River."
+}

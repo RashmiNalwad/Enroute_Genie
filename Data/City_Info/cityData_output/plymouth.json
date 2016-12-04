@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.topvaluereviews.net/wp-content/uploads/2016/03/plymouth-california-small-town-wine-lovers.jpg",
+        "http://unomag.ru/image/cache/data/unomag/Plymouth/WB172-1000x1000.jpg",
+        "http://photos.wikimapia.org/p/00/02/57/50/79_big.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Plymouth,_California",
+    "attraction_in_file": "plymouth.json",
+    "label": "Plymouth, California",
+    "mention_found_in_blogFiles": "sacramento_and_sausalito.json,sacramento_and_stockton.json",
+    "mention_type": "city",
+    "attraction_latitude": "38.4818531",
+    "abstract": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth.",
+    "mention_latitude": "38.4818531",
+    "attraction_longitude": "-120.8446589",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "plymouth",
+    "mention_address": "Plymouth, Amador County, California, United States of America",
+    "youTubeLinkIds": "amzAdq3Fli8,cdOl7M6zVGM,qDr_3t_lRxQ",
+    "mention_popularity": "2",
+    "mention_longitude": "-120.8446589",
+    "attraction_in": "Plymouth",
+    "no_of_blogFiles": "2",
+    "comment": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth."
+}

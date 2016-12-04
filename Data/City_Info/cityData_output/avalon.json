@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.cityofavalon.com/images/layout/background.jpg",
+        "https://cruisingshamaness.files.wordpress.com/2013/06/avaloncahp.jpg",
+        "http://media.afar.com/uploads/images/post_images/images/jdGRsYGnAc/large_open-uri20130329-12218-12kiefi?1383808808"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Avalon,_California",
+    "attraction_in_file": "avalon.json",
+    "label": "Avalon, California",
+    "mention_found_in_blogFiles": "avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_huntington beach.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_temecula.json,santa barbara_and_sausalito.json",
+    "mention_type": "city",
+    "attraction_latitude": "33.34221",
+    "abstract": "Avalon is the only incorporated city on Santa Catalina Island of the California Channel Islands, and the southernmost city in Los Angeles County. The population was 3,728 at the 2010 census. Avalon was first settled in pre-modern times by members of the Gabrielino/Tongva tribe. From the late 19th century to the early 20th century, several different developers tried to develop Avalon into a resort destination community, but most went bankrupt. In 1919, William Wrigley, Jr. gained control of Avalon. Wrigley oversaw much of the development of Avalon, including the construction of the landmark Catalina Casino. The city remains primarily a resort community. Most of the waterfront is dominated by tourism-oriented businesses. The older parts of the town on the valley floor consist primarily of small houses and two and three-story buildings in various traditional architectural styles.",
+    "mention_latitude": "33.34221",
+    "attraction_longitude": "-118.3272611",
+    "type": "http://dbpedia.org/resource/City",
+    "mention_name": "avalon",
+    "mention_address": "Avalon, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "psr9j77AewY,QT1YJ8IPb2k,QuKR8fIUi_I",
+    "mention_popularity": "8",
+    "mention_longitude": "-118.3272611",
+    "attraction_in": "Avalon",
+    "no_of_blogFiles": "10",
+    "comment": "Avalon is the only incorporated city on Santa Catalina Island of the California Channel Islands, and the southernmost city in Los Angeles County. The population was 3,728 at the 2010 census.Avalon was first settled in pre-modern times by members of the Gabrielino/Tongva tribe. From the late 19th century to the early 20th century, several different developers tried to develop Avalon into a resort destination community, but most went bankrupt. In 1919, William Wrigley, Jr. gained control of Avalon. Wrigley oversaw much of the development of Avalon, including the construction of the landmark Catalina Casino."
+}

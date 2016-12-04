@@ -1,0 +1,26 @@
+{
+    "imageUrls": [
+        "http://www.lalimo.com/limousine_los_angeles/image_limousine_los_angeles/sierra_madre_los_angeles_limousine.jpg",
+        "https://static.panoramio.com.storage.googleapis.com/photos/original/29539065.jpg",
+        "http://tours42plus.com/Assets/Uploaded-CMS-Files/Sierra%20Madre-007c2023-4a1a-4b6a-9baf-ac5f428a786a.jpg"
+    ],
+    "Confidence": "100",
+    "subject": "http://dbpedia.org/resource/Sierra_Madre,_California",
+    "attraction_in_file": "sierra_madre.json",
+    "label": "Sierra Madre, California",
+    "mention_found_in_blogFiles": "avalon_and_pasadena.json,beverly hills_and_sausalito.json,bakersfield_and_beverly hills.json,bakersfield_and_santa monica.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_long beach.json,beverly hills_and_pasadena.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_santa ana.json,beverly hills_and_temecula.json,fresno_and_long beach.json,fresno_and_santa ana.json,long beach_and_pasadena.json,long beach_and_san bernardino.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_san jose.json,pasadena_and_riverside.json,sacramento_and_santa ana.json,santa monica_and_temecula.json",
+    "mention_type": "city",
+    "attraction_latitude": "34.1616729",
+    "abstract": "Sierra Madre is a city in Los Angeles County, California whose population was 10,917 at the 2010 U.S. Census, up from 10,580 at the time of the 2000 U.S. Census. The city is located in the foothills of the San Gabriel Valley below the southern edge of the Angeles National Forest. Pasadena and Altadena are to its west, with Arcadia to its south and east. Sierra Madre is known as \"Wisteria City\", and its city seal is decorated with a drawing of the now widely known 500-foot (150 m) vine. It is also called the \"Village of the Foothills\" and was an All-America City in 2007.",
+    "mention_latitude": "34.1616729",
+    "attraction_longitude": "-118.0528455",
+    "type": "http://dbpedia.org/resource/California",
+    "mention_name": "sierra madre",
+    "mention_address": "Sierra Madre, Los Angeles County, California, United States of America",
+    "youTubeLinkIds": "4Ah1z4i3Y5A,krqqNqMaMhA",
+    "mention_popularity": "4",
+    "mention_longitude": "-118.0528455",
+    "attraction_in": "Sierra Madre",
+    "no_of_blogFiles": "22",
+    "comment": "Sierra Madre is a city in Los Angeles County, California whose population was 10,917 at the 2010 U.S. Census, up from 10,580 at the time of the 2000 U.S. Census. The city is located in the foothills of the San Gabriel Valley below the southern edge of the Angeles National Forest. Pasadena and Altadena are to its west, with Arcadia to its south and east. Sierra Madre is known as \"Wisteria City\", and its city seal is decorated with a drawing of the now widely known 500-foot (150 m) vine. It is also called the \"Village of the Foothills\" and was an All-America City in 2007."
+}
